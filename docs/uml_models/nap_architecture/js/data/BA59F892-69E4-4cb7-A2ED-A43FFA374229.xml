@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.3.7:1", "", "ControlledZone", "EARoot/EA3/EA7/EA1222.htm", "175.png", "3422", "0", "", "Logical diagram0","{7A695105-F8A1-457e-8CF9-2A9A52F86629}");
+tocTab[tocTab.length] = new Array("0.3.7:2", "", "namespace dependencies", "EARoot/EA3/EA7/EA1224.htm", "176.png", "3423", "0", "", "Package diagram0","{6F92260B-4C45-40d5-9BC4-9A1E11990222}");
+tocTab[tocTab.length] = new Array("0.3.7.1", "1", "«D2Package» Classes", "EARoot/EA3/EA7/EA1/EA1235.htm", "4.png", "", "", "{43622D22-B70E-4128-986E-526E24AD02F4}", "Package");
+tocTab[tocTab.length] = new Array("0.3.7.2", "1", "«D2Package» ControlledZonePublication", "EARoot/EA3/EA7/EA2/EA1252.htm", "4.png", "", "", "{4ADE06EB-7AF8-4156-B4FA-A733B6939964}", "Package");
+tocTab[tocTab.length] = new Array("0.3.7.3", "", "«D2Package» DataTypes", "EARoot/EA3/EA7/EA3/EA1261.htm", "4.png", "", "", "{C99C007E-3C76-4650-86B6-01D2B93B0645}", "Package");
+tocTab[tocTab.length] = new Array("0.3.7.4", "1", "«D2Package» Enumerations", "EARoot/EA3/EA7/EA4/EA1264.htm", "4.png", "", "", "{67DC0F27-F64E-4572-91AB-C9BB77E081F7}", "Package");

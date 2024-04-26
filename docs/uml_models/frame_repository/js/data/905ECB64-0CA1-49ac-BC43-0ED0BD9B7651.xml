@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.4.2.1:1", "", "DataTypes", "EARoot/EA4/EA2/EA1/EA1718.htm", "175.png", "3480", "0", "", "Logical diagram0","{0B2F2738-3A1A-481e-A98A-6148EB8048FC}");
+tocTab[tocTab.length] = new Array("0.4.2.1:2", "", "«D2Datatype» DecibelHertz", "EARoot/EA4/EA2/EA1/EA1721.htm", "230.png", "E20326", "0", "", "DataType0","{233E0F9E-073D-492c-92EF-A11EC8B11736}");
+tocTab[tocTab.length] = new Array("0.4.2.1:3", "", "«D2Datatype» Hertz", "EARoot/EA4/EA2/EA1/EA1722.htm", "230.png", "E20327", "0", "", "DataType0","{4C577156-6258-4b16-B76C-A6E82082E623}");

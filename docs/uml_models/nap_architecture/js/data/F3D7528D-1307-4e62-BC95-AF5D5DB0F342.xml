@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.3.6.1.2:1", "", "VmsConfiguration", "EARoot/EA3/EA6/EA1/EA2/EA1139.htm", "175.png", "3413", "0", "", "Logical diagram0","{235D41E0-8859-4b69-93E3-C5DD41E2914A}");
+tocTab[tocTab.length] = new Array("0.3.6.1.2:2", "", "«D2Class» DisplayArea", "EARoot/EA3/EA6/EA1/EA2/EA1144.htm", "5.png", "E19926", "0", "", "Class0","{DA094465-DC52-4f08-A6C1-5F1FFBA31CD2}");
+tocTab[tocTab.length] = new Array("0.3.6.1.2:3", "", "«D2Class» DisplayGeometry", "EARoot/EA3/EA6/EA1/EA2/EA1145.htm", "5.png", "E19927", "0", "", "Class0","{AD0907D4-0B29-40a3-818C-8AA230D07FD2}");
+tocTab[tocTab.length] = new Array("0.3.6.1.2:4", "", "«D2Class» VmsConfiguration", "EARoot/EA3/EA6/EA1/EA2/EA1146.htm", "5.png", "E19928", "0", "", "Class0","{0856E4A8-2CB7-4cd7-A96E-6E62CFD25487}");
+tocTab[tocTab.length] = new Array("0.3.6.1.2:5", "", "«D2Class» PictogramDisplayArea", "EARoot/EA3/EA6/EA1/EA2/EA1147.htm", "5.png", "E19929", "0", "", "Class0","{C4155784-66F0-4a39-82F0-8A852C8D617C}");
+tocTab[tocTab.length] = new Array("0.3.6.1.2:6", "", "«D2Class» SupplementaryPanelArea", "EARoot/EA3/EA6/EA1/EA2/EA1148.htm", "5.png", "E19930", "0", "", "Class0","{8198BBDF-9684-4aaf-B01E-B2F0289FDF8D}");
+tocTab[tocTab.length] = new Array("0.3.6.1.2:7", "", "«D2Class» TextDisplayArea", "EARoot/EA3/EA6/EA1/EA2/EA1149.htm", "5.png", "E19931", "0", "", "Class0","{DC47FCC6-3417-4630-A32F-7F0BA1B5801F}");

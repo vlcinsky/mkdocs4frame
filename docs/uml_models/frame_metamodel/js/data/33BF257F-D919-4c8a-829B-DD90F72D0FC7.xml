@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.3.5.1.2:1", "", "Impact", "EARoot/EA3/EA5/EA1/EA2/EA1000.htm", "175.png", "3400", "0", "", "Logical diagram0","{8903CDF1-88FB-47f1-8912-36F9F394CB41}");
+tocTab[tocTab.length] = new Array("0.3.5.1.2:2", "", "«D2Class» Delays", "EARoot/EA3/EA5/EA1/EA2/EA1003.htm", "5.png", "E19825", "0", "", "Class0","{D6E2CAAD-2468-4a67-97C4-C580C42B51B3}");
+tocTab[tocTab.length] = new Array("0.3.5.1.2:3", "", "«D2Class» Impact", "EARoot/EA3/EA5/EA1/EA2/EA1004.htm", "5.png", "E19826", "0", "", "Class0","{480D8D37-3A5F-40e4-AE70-E887E23D78C7}");

@@ -1,0 +1,13 @@
+tocTab[tocTab.length] = new Array("0.3.4.1:1", "", "«D2Class» AxleCharacteristics", "EARoot/EA3/EA4/EA1/EA824.htm", "5.png", "E19718", "0", "", "Class0","{2C4BBC6B-009C-484e-BD0B-AC61F5B7DE34}");
+tocTab[tocTab.length] = new Array("0.3.4.1:2", "", "«D2VersionedIdentifiable» MeasurementSite", "EARoot/EA3/EA4/EA1/EA827.htm", "5.png", "E19719", "0", "", "Class0","{48E520A8-448A-41df-8DDA-16FD6B35E697}");
+tocTab[tocTab.length] = new Array("0.3.4.1:3", "", "«D2VersionedIdentifiable» MeasurementSiteTable", "EARoot/EA3/EA4/EA1/EA828.htm", "5.png", "E19720", "0", "", "Class0","{D378BD31-64B9-4a2b-8B80-3D857E4BDD7B}");
+tocTab[tocTab.length] = new Array("0.3.4.1:4", "", "«D2Class» MeasurementSpecificCharacteristics", "EARoot/EA3/EA4/EA1/EA829.htm", "5.png", "E19721", "0", "", "Class0","{271DE7C1-6D8A-4c33-925C-4BDEBDDAAC3F}");
+tocTab[tocTab.length] = new Array("0.3.4.1:5", "", "«D2Class» ReferenceSettings", "EARoot/EA3/EA4/EA1/EA831.htm", "5.png", "E19722", "0", "", "Class0","{5971833C-653E-446d-9395-237967755187}");
+tocTab[tocTab.length] = new Array("0.3.4.1:6", "", "«D2Class» SiteMeasurements", "EARoot/EA3/EA4/EA1/EA832.htm", "5.png", "E19723", "0", "", "Class0","{3FC0CFBA-AF9E-4b92-8700-BB33C821CD32}");
+tocTab[tocTab.length] = new Array("0.3.4.1.1", "1", "«D2Package» BasicData", "EARoot/EA3/EA4/EA1/EA1/EA841.htm", "4.png", "", "", "{BA168129-CEED-491f-8B61-37D6CE7DAF3D}", "Package");
+tocTab[tocTab.length] = new Array("0.3.4.1.2", "1", "«D2Package» DataValue", "EARoot/EA3/EA4/EA1/EA2/EA850.htm", "4.png", "", "", "{FAFDE832-49F9-4b36-A065-5BCD6447549A}", "Package");
+tocTab[tocTab.length] = new Array("0.3.4.1.3", "1", "«D2Package» PhysicalQuantity", "EARoot/EA3/EA4/EA1/EA3/EA860.htm", "4.png", "", "", "{75C555D5-A70A-439f-AC90-01C2432D4042}", "Package");
+tocTab[tocTab.length] = new Array("0.3.4.1.4", "1", "«D2Package» TrafficData", "EARoot/EA3/EA4/EA1/EA4/EA868.htm", "4.png", "", "", "{CA061FFA-4D9E-4d99-A5B8-681BC90BAA23}", "Package");
+tocTab[tocTab.length] = new Array("0.3.4.1.5", "1", "«D2Package» TrafficStatus", "EARoot/EA3/EA4/EA1/EA5/EA905.htm", "4.png", "", "", "{22357264-5408-4d16-9329-553592F816F3}", "Package");
+tocTab[tocTab.length] = new Array("0.3.4.1.6", "1", "«D2Package» TravelTimeData", "EARoot/EA3/EA4/EA1/EA6/EA909.htm", "4.png", "", "", "{B36F37F5-00E5-4faf-B429-206F200D78E4}", "Package");
+tocTab[tocTab.length] = new Array("0.3.4.1.7", "1", "«D2Package» WeatherData", "EARoot/EA3/EA4/EA1/EA7/EA913.htm", "4.png", "", "", "{140A4B6A-2B4C-435d-8103-6EDEC9D4321C}", "Package");

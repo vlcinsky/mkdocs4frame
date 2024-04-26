@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.4.5.1.3:1", "", "TmplanImplementingAction", "EARoot/EA4/EA5/EA1/EA3/EA1815.htm", "175.png", "3498", "0", "", "Logical diagram0","{EF44AA7D-EAAA-49ae-B47C-ADF9B3D9BB4B}");
+tocTab[tocTab.length] = new Array("0.4.5.1.3:2", "", "«D2Class» OperatorActionExtendedTmplan", "EARoot/EA4/EA5/EA1/EA3/EA1820.htm", "5.png", "E20377", "0", "", "Class0","{9BAC3929-6106-421a-BD0F-A822188B2198}");
+tocTab[tocTab.length] = new Array("0.4.5.1.3:3", "", "«D2Class» TmplanImplementingAction", "EARoot/EA4/EA5/EA1/EA3/EA1821.htm", "5.png", "E20378", "0", "", "Class0","{C7FAFA77-30D1-4fa6-96C3-C40E1E212237}");

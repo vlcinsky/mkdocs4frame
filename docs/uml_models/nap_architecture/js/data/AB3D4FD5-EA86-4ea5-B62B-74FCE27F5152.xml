@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.3.2.7:1", "", "Rates", "EARoot/EA3/EA2/EA7/EA661.htm", "175.png", "3357", "0", "", "Logical diagram0","{5F3EFBBB-9270-4785-B43D-5E7C5F085A83}");
+tocTab[tocTab.length] = new Array("0.3.2.7:2", "", "RatesPublication", "EARoot/EA3/EA2/EA7/EA663.htm", "175.png", "3356", "0", "", "Logical diagram0","{82C49160-A117-464e-B1AD-BAED65E804C5}");
+tocTab[tocTab.length] = new Array("0.3.2.7.1", "1", "«D2Package» Eligibility", "EARoot/EA3/EA2/EA7/EA1/EA677.htm", "4.png", "", "", "{B5F85785-DC38-412c-B860-2C79237B4CED}", "Package");
+tocTab[tocTab.length] = new Array("0.3.2.7.2", "1", "«D2Package» Rates", "EARoot/EA3/EA2/EA7/EA2/EA682.htm", "4.png", "", "", "{5B87B536-51B2-4cc7-AB1F-31DE3D995734}", "Package");
+tocTab[tocTab.length] = new Array("0.3.2.7.3", "1", "«D2Package» Right", "EARoot/EA3/EA2/EA7/EA3/EA701.htm", "4.png", "", "", "{64A0595F-DB42-443f-B584-112FEDE846C8}", "Package");
+tocTab[tocTab.length] = new Array("0.3.2.7.4", "1", "«D2Package» PaymentMethod", "EARoot/EA3/EA2/EA7/EA4/EA708.htm", "4.png", "", "", "{F80F1C92-2474-41da-858E-EAB874F01CAD}", "Package");
+tocTab[tocTab.length] = new Array("0.3.2.7.5", "1", "«D2Package» Enumerations", "EARoot/EA3/EA2/EA7/EA5/EA714.htm", "4.png", "", "", "{C51FA148-D37B-4ffa-88BB-4F89DBCE968B}", "Package");

@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.3.3.5:1", "", "AllFaultsOfSingleDevice", "EARoot/EA3/EA3/EA5/EA792.htm", "175.png", "3371", "0", "", "Logical diagram0","{0F7172D0-AAC0-401e-BCE9-0DCBFF4FB989}");
+tocTab[tocTab.length] = new Array("0.3.3.5:2", "", "FaultPublication", "EARoot/EA3/EA3/EA5/EA794.htm", "175.png", "3370", "0", "", "Logical diagram0","{78A74D4D-03F7-4fb0-8806-5FF84D564126}");
+tocTab[tocTab.length] = new Array("0.3.3.5:3", "", "«D2Class» AllFaultsOfSingleDevice", "EARoot/EA3/EA3/EA5/EA797.htm", "5.png", "E19705", "0", "", "Class0","{0BB9B7B1-5CB6-4aea-B161-CEA7B001547B}");
+tocTab[tocTab.length] = new Array("0.3.3.5:4", "", "«D2Identifiable» DeviceFault", "EARoot/EA3/EA3/EA5/EA798.htm", "5.png", "E19706", "0", "", "Class0","{0F3250A7-C0A4-4d30-A355-F27F091B875A}");
+tocTab[tocTab.length] = new Array("0.3.3.5:5", "", "«D2Class» FaultPublication", "EARoot/EA3/EA3/EA5/EA799.htm", "5.png", "E19707", "0", "", "Class0","{253B6057-1B81-487e-9914-B89BA5D4FC65}");
+tocTab[tocTab.length] = new Array("0.3.3.5:6", "", "«D2Class» FaultsOfAllDevicesFromTable", "EARoot/EA3/EA3/EA5/EA800.htm", "5.png", "E19708", "0", "", "Class0","{059885E9-5E68-4e4a-9C8C-5B0A1B015ABF}");

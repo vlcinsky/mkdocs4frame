@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.4.2.2:1", "", "Enumerations", "EARoot/EA4/EA2/EA2/EA1723.htm", "175.png", "3481", "0", "", "Logical diagram0","{507C8960-60E8-4c18-8E9F-0433EFA9C22B}");
+tocTab[tocTab.length] = new Array("0.4.2.2:2", "", "«D2Enumeration» NmaStatusEnum", "EARoot/EA4/EA2/EA2/EA1726.htm", "247.png", "E20329", "0", "", "Enumeration0","{5E54520B-1E66-4432-9301-B43519200D2E}");
+tocTab[tocTab.length] = new Array("0.4.2.2:3", "", "«D2Enumeration» SbasCorrectionEnum", "EARoot/EA4/EA2/EA2/EA1727.htm", "247.png", "E20330", "0", "", "Enumeration0","{D4640575-E5EC-4e2f-846C-6D4667554D75}");
+tocTab[tocTab.length] = new Array("0.4.2.2:4", "", "«D2Enumeration» PseudoRangeUnitEnum", "EARoot/EA4/EA2/EA2/EA1728.htm", "247.png", "E20331", "0", "", "Enumeration0","{B4321303-C812-407a-93CA-A2724A48B0BB}");

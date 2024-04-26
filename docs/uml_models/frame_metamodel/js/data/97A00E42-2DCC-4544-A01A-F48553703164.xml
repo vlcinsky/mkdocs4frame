@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.3.5:1", "", "Namespace dependencies", "EARoot/EA3/EA5/EA953.htm", "176.png", "3396", "0", "", "Package diagram0","{30BDACDF-3CAF-41dc-ABBB-B8CCF08F749F}");
+tocTab[tocTab.length] = new Array("0.3.5:2", "", "Situation", "EARoot/EA3/EA5/EA955.htm", "175.png", "3395", "0", "", "Logical diagram0","{479207F3-3A7B-4042-B0B7-6D322D2D8D47}");
+tocTab[tocTab.length] = new Array("0.3.5.1", "1", "«D2Package» Classes", "EARoot/EA3/EA5/EA1/EA961.htm", "4.png", "", "", "{9D8603F4-4745-4f1d-A671-66FFF8E44631}", "Package");
+tocTab[tocTab.length] = new Array("0.3.5.2", "1", "«D2Package» Enumerations", "EARoot/EA3/EA5/EA2/EA1052.htm", "4.png", "", "", "{9E2307F1-3590-4d2f-9EAA-0904DFD104E6}", "Package");
+tocTab[tocTab.length] = new Array("0.3.5.3", "1", "«D2Package» SituationPublication", "EARoot/EA3/EA5/EA3/EA1108.htm", "4.png", "", "", "{E732DE8D-F42B-4060-AE1C-9FEA82436001}", "Package");

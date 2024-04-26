@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("0.3.9.1.6:1", "", "OperatingPattern", "EARoot/EA3/EA9/EA1/EA6/EA1476.htm", "175.png", "3451", "0", "", "Logical diagram0","{2921E862-8797-4768-BA5E-398EB79EA9D8}");
+tocTab[tocTab.length] = new Array("0.3.9.1.6:2", "", "«D2Class» OperatingPattern", "EARoot/EA3/EA9/EA1/EA6/EA1479.htm", "5.png", "E20153", "0", "", "Class0","{D0779E73-21D7-4fc1-B7F6-DE96BE4684A6}");
+tocTab[tocTab.length] = new Array("0.3.9.1.6:3", "", "«D2Class» OperatingRestriction", "EARoot/EA3/EA9/EA1/EA6/EA1480.htm", "5.png", "E20154", "0", "", "Class0","{E711F1BC-113E-4c82-AFD5-FEE258D258B7}");
+tocTab[tocTab.length] = new Array("0.3.9.1.6:4", "", "«D2Class» PointOfInterest", "EARoot/EA3/EA9/EA1/EA6/EA1481.htm", "5.png", "E20155", "0", "", "Class0","{9E7DC24E-9508-4d41-ACA4-8771E37C6AFE}");
+tocTab[tocTab.length] = new Array("0.3.9.1.6:5", "", "«D2Class» PublicTransportStop", "EARoot/EA3/EA9/EA1/EA6/EA1482.htm", "5.png", "E20156", "0", "", "Class0","{FDA81575-F3D4-445a-85A7-818E815A423F}");
+tocTab[tocTab.length] = new Array("0.3.9.1.6:6", "", "«D2Class» RelatedLocation", "EARoot/EA3/EA9/EA1/EA6/EA1483.htm", "5.png", "E20157", "0", "", "Class0","{5F39235B-8F82-4675-A94F-6E234FAE4FB9}");
+tocTab[tocTab.length] = new Array("0.3.9.1.6:7", "", "«D2Class» UsageScenario", "EARoot/EA3/EA9/EA1/EA6/EA1484.htm", "5.png", "E20158", "0", "", "Class0","{B41B97CB-3745-45de-A6A9-C0A81A41EBAA}");
+tocTab[tocTab.length] = new Array("0.3.9.1.6:8", "", "«D2VersionedIdentifiable» PublicTransportSchedule", "EARoot/EA3/EA9/EA1/EA6/EA1485.htm", "5.png", "E20159", "0", "", "Class0","{4AD891C4-2E3A-4698-8EA5-70D817BFF2E5}");

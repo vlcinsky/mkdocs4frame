@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("0.3.3.6:1", "", "Status", "EARoot/EA3/EA3/EA6/EA801.htm", "175.png", "3373", "0", "", "Logical diagram0","{D1EB0269-03FC-4989-9412-2A2716E97F65}");
+tocTab[tocTab.length] = new Array("0.3.3.6:2", "", "StatusPublication", "EARoot/EA3/EA3/EA6/EA803.htm", "175.png", "3372", "0", "", "Logical diagram0","{3F2DAA07-6B87-4e24-8A37-AB1044B25545}");
+tocTab[tocTab.length] = new Array("0.3.3.6:3", "", "«D2Class» DevicePower", "EARoot/EA3/EA3/EA6/EA806.htm", "5.png", "E19710", "0", "", "Class0","{EB64C5D9-6F1B-4c6b-AB59-A673102F9462}");
+tocTab[tocTab.length] = new Array("0.3.3.6:4", "", "«D2Class» OperationalState", "EARoot/EA3/EA3/EA6/EA807.htm", "5.png", "E19711", "0", "", "Class0","{8FFF2A1D-4535-4f9a-B916-5772DF86B8AD}");
+tocTab[tocTab.length] = new Array("0.3.3.6:5", "", "«D2Enumeration» PowerSourceEnum", "EARoot/EA3/EA3/EA6/EA808.htm", "247.png", "E19715", "0", "", "Enumeration0","{168B9196-EE9F-4cac-A78C-5A1D6A71BCEB}");
+tocTab[tocTab.length] = new Array("0.3.3.6:6", "", "«D2Class» Status", "EARoot/EA3/EA3/EA6/EA809.htm", "5.png", "E19712", "0", "", "Class0","{DCDC4505-3626-410f-B96E-7CF33F3FD019}");
+tocTab[tocTab.length] = new Array("0.3.3.6:7", "", "«D2Class» StatusOfAllDevicesFromTable", "EARoot/EA3/EA3/EA6/EA810.htm", "5.png", "E19713", "0", "", "Class0","{21E49B02-D66D-4287-9184-CFBB0B431DBD}");
+tocTab[tocTab.length] = new Array("0.3.3.6:8", "", "«D2Class» StatusPublication", "EARoot/EA3/EA3/EA6/EA811.htm", "5.png", "E19714", "0", "", "Class0","{3852761F-F430-44c7-A41F-9202D35B795B}");

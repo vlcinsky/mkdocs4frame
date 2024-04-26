@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.4.1.2:1", "", "CommonExtension (stable elements)", "EARoot/EA4/EA1/EA2/EA1698.htm", "175.png", "3478", "0", "", "Logical diagram0","{7D756484-5589-48b0-BD50-7C5E39BC6E9E}");
+tocTab[tocTab.length] = new Array("0.4.1.2:2", "", "«D2Enumeration» EmissionClassificationEuroEnumExtended", "EARoot/EA4/EA1/EA2/EA1701.htm", "247.png", "E20313", "0", "", "Enumeration0","{22D30222-8881-43bd-99A1-74D24B0AE7AB}");
+tocTab[tocTab.length] = new Array("0.4.1.2:3", "", "«D2Class» EmissionsExtension", "EARoot/EA4/EA1/EA2/EA1702.htm", "5.png", "E20312", "0", "", "Class0","{A543CDB5-BEDA-4a67-9B97-5BA3819AD047}");

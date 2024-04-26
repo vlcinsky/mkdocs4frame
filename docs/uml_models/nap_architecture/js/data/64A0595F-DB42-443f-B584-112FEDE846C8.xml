@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.3.2.7.3:1", "", "Right", "EARoot/EA3/EA2/EA7/EA3/EA699.htm", "175.png", "3359", "0", "", "Logical diagram0","{25B8C4B6-31C0-400d-9F10-BB66ACBC033F}");
+tocTab[tocTab.length] = new Array("0.3.2.7.3:2", "", "«D2Class» Credential", "EARoot/EA3/EA2/EA7/EA3/EA702.htm", "5.png", "E19640", "0", "", "Class0","{E26EF277-92CC-4ba1-BB28-E1B549A30943}");
+tocTab[tocTab.length] = new Array("0.3.2.7.3:3", "", "«D2Class» CredentialAssigned", "EARoot/EA3/EA2/EA7/EA3/EA703.htm", "5.png", "E19641", "0", "", "Class0","{FC922C18-82D0-45fa-B757-01623653ABC8}");
+tocTab[tocTab.length] = new Array("0.3.2.7.3:4", "", "«D2Class» RateDiscount", "EARoot/EA3/EA2/EA7/EA3/EA704.htm", "5.png", "E19642", "0", "", "Class0","{F82EEEC3-056B-4548-9830-50A82672606C}");
+tocTab[tocTab.length] = new Array("0.3.2.7.3:5", "", "«D2Class» RightSpecification", "EARoot/EA3/EA2/EA7/EA3/EA705.htm", "5.png", "E19643", "0", "", "Class0","{97255BA3-D442-4c7a-92B0-50B0663823D4}");

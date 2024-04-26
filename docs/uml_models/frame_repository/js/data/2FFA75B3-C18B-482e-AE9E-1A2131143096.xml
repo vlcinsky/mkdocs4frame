@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("0.2.3.7.1:1", "", "OpenLRArea", "EARoot/EA2/EA3/EA7/EA1/EA446.htm", "175.png", "3331", "0", "", "Logical diagram0","{8690B09D-2718-4c71-8EEF-F419D9229C5F}");
+tocTab[tocTab.length] = new Array("0.2.3.7.1:2", "", "«D2Class» OpenlrAreaLocationReference", "EARoot/EA2/EA3/EA7/EA1/EA449.htm", "5.png", "E19471", "0", "", "Class0","{B468C916-637B-41bc-B5F9-1FC6F4777B29}");
+tocTab[tocTab.length] = new Array("0.2.3.7.1:3", "", "«D2Class» OpenlrCircleLocationReference", "EARoot/EA2/EA3/EA7/EA1/EA450.htm", "5.png", "E19472", "0", "", "Class0","{2D5B20D2-7EED-4bdc-A931-4CB607EAF7B3}");
+tocTab[tocTab.length] = new Array("0.2.3.7.1:4", "", "«D2Class» OpenlrClosedLineLocationReference", "EARoot/EA2/EA3/EA7/EA1/EA451.htm", "5.png", "E19473", "0", "", "Class0","{3D664677-3275-4d41-8DCF-A2CF072E47D9}");
+tocTab[tocTab.length] = new Array("0.2.3.7.1:5", "", "«D2Class» OpenlrGridLocationReference", "EARoot/EA2/EA3/EA7/EA1/EA452.htm", "5.png", "E19474", "0", "", "Class0","{267229A0-A11E-48e0-A6E3-87C98331B687}");
+tocTab[tocTab.length] = new Array("0.2.3.7.1:6", "", "«D2Class» OpenlrPolygonCorners", "EARoot/EA2/EA3/EA7/EA1/EA453.htm", "5.png", "E19475", "0", "", "Class0","{3FC9A7D7-EC91-4b9e-8098-17227980A192}");
+tocTab[tocTab.length] = new Array("0.2.3.7.1:7", "", "«D2Class» OpenlrPolygonLocationReference", "EARoot/EA2/EA3/EA7/EA1/EA454.htm", "5.png", "E19476", "0", "", "Class0","{D02B0A83-EA1F-45ba-82F9-E1583208EC4F}");
+tocTab[tocTab.length] = new Array("0.2.3.7.1:8", "", "«D2Class» OpenlrRectangle", "EARoot/EA2/EA3/EA7/EA1/EA455.htm", "5.png", "E19477", "0", "", "Class0","{4163AEAC-54D7-45a7-B12F-B02060CDFB0E}");
+tocTab[tocTab.length] = new Array("0.2.3.7.1:9", "", "«D2Class» OpenlrRectangleLocationReference", "EARoot/EA2/EA3/EA7/EA1/EA456.htm", "5.png", "E19478", "0", "", "Class0","{67CD6AC0-2BBB-4d27-82A8-896447E7AC2E}");

@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.2.3.6.1:1", "", "TpegAreaLocation", "EARoot/EA2/EA3/EA6/EA1/EA403.htm", "175.png", "3326", "0", "", "Logical diagram0","{20F9C8F7-1DAB-44a1-AE59-4537EC619362}");
+tocTab[tocTab.length] = new Array("0.2.3.6.1:2", "", "«D2Class» TpegAreaLocation", "EARoot/EA2/EA3/EA6/EA1/EA407.htm", "5.png", "E19442", "0", "", "Class0","{AD25D3CF-5DE3-4f5c-A4A0-10653D7D0F71}");
+tocTab[tocTab.length] = new Array("0.2.3.6.1:3", "", "«D2Class» TpegGeometricArea", "EARoot/EA2/EA3/EA6/EA1/EA408.htm", "5.png", "E19443", "0", "", "Class0","{16C42353-2C3A-45e6-8D84-305BD7487ED4}");
+tocTab[tocTab.length] = new Array("0.2.3.6.1:4", "", "«D2Class» TpegHeight", "EARoot/EA2/EA3/EA6/EA1/EA409.htm", "5.png", "E19444", "0", "", "Class0","{F61C38F2-4558-4cb4-9653-5AC22731C686}");
+tocTab[tocTab.length] = new Array("0.2.3.6.1:5", "", "«D2Class» TpegNamedOnlyArea", "EARoot/EA2/EA3/EA6/EA1/EA410.htm", "5.png", "E19445", "0", "", "Class0","{158F2F5E-4831-42d4-B235-0C239CAA48A2}");

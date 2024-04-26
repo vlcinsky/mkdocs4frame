@@ -1,0 +1,16 @@
+tocTab[tocTab.length] = new Array("0.3.2.7.2:1", "", "«D2Class» GeneralRateInformation", "EARoot/EA3/EA2/EA7/EA2/EA683.htm", "5.png", "E19623", "0", "", "Class0","{02D2C458-DD77-411b-B1AF-388C745E7683}");
+tocTab[tocTab.length] = new Array("0.3.2.7.2:2", "", "«D2Class» AmountInCurrency", "EARoot/EA3/EA2/EA7/EA2/EA684.htm", "5.png", "E19624", "0", "", "Class0","{5DCF1A0F-3C3D-42c8-A814-B6129001B861}");
+tocTab[tocTab.length] = new Array("0.3.2.7.2:3", "", "«D2Class» FreeOfCharge", "EARoot/EA3/EA2/EA7/EA2/EA685.htm", "5.png", "E19625", "0", "", "Class0","{B070DED4-8F44-47dd-92C4-DEA855DEEB84}");
+tocTab[tocTab.length] = new Array("0.3.2.7.2:4", "", "«D2Class» RateEligibility", "EARoot/EA3/EA2/EA7/EA2/EA686.htm", "5.png", "E19626", "0", "", "Class0","{50A30D43-B0FB-4a14-ABC1-68723BA42689}");
+tocTab[tocTab.length] = new Array("0.3.2.7.2:5", "", "«D2Class» RateLineCollection", "EARoot/EA3/EA2/EA7/EA2/EA687.htm", "5.png", "E19627", "0", "", "Class0","{CB2DE86A-4BDD-45b8-8446-B927BDB4E54B}");
+tocTab[tocTab.length] = new Array("0.3.2.7.2:6", "", "«D2Class» RateLine", "EARoot/EA3/EA2/EA7/EA2/EA688.htm", "5.png", "E19628", "0", "", "Class0","{F7D096B7-4F31-41de-A915-AEF2CE03D35C}");
+tocTab[tocTab.length] = new Array("0.3.2.7.2:7", "", "«D2Class» RateLineTax", "EARoot/EA3/EA2/EA7/EA2/EA689.htm", "5.png", "E19629", "0", "", "Class0","{C9D4F8EC-59F7-4c2d-B4DC-DE7C3253DF40}");
+tocTab[tocTab.length] = new Array("0.3.2.7.2:8", "", "«D2VersionedIdentifiable» RateMatrix", "EARoot/EA3/EA2/EA7/EA2/EA690.htm", "5.png", "E19630", "0", "", "Class0","{A5824984-B33F-4fb9-819B-57505707E270}");
+tocTab[tocTab.length] = new Array("0.3.2.7.2:9", "", "«D2Class» Rates", "EARoot/EA3/EA2/EA7/EA2/EA691.htm", "5.png", "E19631", "0", "", "Class0","{482231EA-2481-4bb0-9774-EE062933C6AD}");
+tocTab[tocTab.length] = new Array("0.3.2.7.2:10", "", "«D2VersionedIdentifiable» RateTable", "EARoot/EA3/EA2/EA7/EA2/EA692.htm", "5.png", "E19632", "0", "", "Class0","{8AC32C2E-B552-4b09-9593-87E3C15401CF}");
+tocTab[tocTab.length] = new Array("0.3.2.7.2:11", "", "«D2Class» RatesByReference", "EARoot/EA3/EA2/EA7/EA2/EA693.htm", "5.png", "E19633", "0", "", "Class0","{5D7DE284-D275-48c6-9152-C48DEBC0A71E}");
+tocTab[tocTab.length] = new Array("0.3.2.7.2:12", "", "«D2Class» RatesPublication", "EARoot/EA3/EA2/EA7/EA2/EA694.htm", "5.png", "E19634", "0", "", "Class0","{087DA1AE-BAE7-49c9-AD92-BD1C837F75FF}");
+tocTab[tocTab.length] = new Array("0.3.2.7.2:13", "", "«D2Class» RelativeTimeRates", "EARoot/EA3/EA2/EA7/EA2/EA695.htm", "5.png", "E19635", "0", "", "Class0","{68DAB3FE-960F-4b9a-A383-6FDF2ABC4C15}");
+tocTab[tocTab.length] = new Array("0.3.2.7.2:14", "", "«D2Class» Surcharge", "EARoot/EA3/EA2/EA7/EA2/EA696.htm", "5.png", "E19636", "0", "", "Class0","{4E7F7EBD-6820-4fff-8484-4F20ABA3DD10}");
+tocTab[tocTab.length] = new Array("0.3.2.7.2:15", "", "«D2Class» UnknownRates", "EARoot/EA3/EA2/EA7/EA2/EA697.htm", "5.png", "E19637", "0", "", "Class0","{01B8D37A-2B6A-4441-8E5C-CF56A2341C99}");
+tocTab[tocTab.length] = new Array("0.3.2.7.2:16", "", "«D2Class» UnspecifiedRates", "EARoot/EA3/EA2/EA7/EA2/EA698.htm", "5.png", "E19638", "0", "", "Class0","{6B88E336-094E-49df-8011-D59450526BF6}");

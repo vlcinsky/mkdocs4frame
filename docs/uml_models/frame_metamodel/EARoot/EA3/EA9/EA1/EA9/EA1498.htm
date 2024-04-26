@@ -1,0 +1,115 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>ParkingStatus</title>
+<link href="../../../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="PageBody">
+	
+<img src="EA1499.png" usemap="#EA1499" border="0" />
+
+<MAP NAME="EA1499">
+<area shape="rect" coords="1002,695,1114,771" href="EA1511.htm" target="_self">
+<area shape="rect" coords="1143,695,1335,771" href="EA1510.htm" target="_self">
+<area shape="rect" coords="1189,603,1335,679" href="EA1512.htm" target="_self">
+<area shape="rect" coords="1396,445,1619,638" href="../EA6/EA1476.htm" target="_self">
+<area shape="rect" coords="655,1021,823,1110" href="../EA14/EA1534.htm" target="_self">
+<area shape="rect" coords="406,1001,609,1129" href="../EA14/EA1536.htm" target="_self">
+<area shape="rect" coords="69,1225,191,1317" href="../../../../EA1/EA1/EA2/EA81.htm" target="_self">
+<area shape="rect" coords="959,1707,1148,1809" href="../../../EA4/EA1/EA1/EA846.htm" target="_self">
+<area shape="rect" coords="965,917,1231,1035" href="../../../EA4/EA1/EA6/EA907.htm" target="_self">
+<area shape="rect" coords="970,146,1258,261" href="../../../../EA1/EA1/EA27.htm" target="_self">
+<area shape="rect" coords="681,752,947,841" href="EA1505.htm" target="_self">
+<area shape="rect" coords="161,749,377,835" href="EA1501.htm" target="_self">
+<area shape="rect" coords="968,497,1234,586" href="EA1504.htm" target="_self">
+<area shape="rect" coords="41,488,239,563" href="EA1502.htm" target="_self">
+<area shape="rect" coords="26,591,254,706" href="EA1507.htm" target="_self">
+<area shape="rect" coords="10,340,208,442" href="../../EA2/EA1581.htm" target="_self">
+<area shape="rect" coords="238,301,436,442" href="../../EA2/EA1574.htm" target="_self">
+<area shape="rect" coords="238,91,436,284" href="../../EA2/EA1588.htm" target="_self">
+<area shape="rect" coords="164,1777,320,1869" href="../EA16/EA1560.htm" target="_self">
+<area shape="rect" coords="165,1657,321,1762" href="../EA16/EA1562.htm" target="_self">
+<area shape="rect" coords="160,2015,376,2140" href="../../../../EA1/EA1/EA2/EA86.htm" target="_self">
+<area shape="rect" coords="213,1439,381,1494" href="../EA15/EA1544.htm" target="_self">
+<area shape="rect" coords="526,1701,790,1815" href="../EA16/EA1563.htm" target="_self">
+<area shape="rect" coords="968,812,1153,899" href="../../../../EA1/EA1/EA4/EA101.htm" target="_self">
+<area shape="rect" coords="998,618,1143,662" href="EA1509.htm" target="_self">
+<area shape="rect" coords="1027,333,1205,474" href="../../../EA2/EA4/EA637.htm" target="_self">
+<area shape="rect" coords="554,62,774,177" href="../../../EA492.htm" target="_self">
+<area shape="rect" coords="965,1180,1136,1399" href="../../EA2/EA1600.htm" target="_self">
+<area shape="rect" coords="787,1180,952,1399" href="../../EA2/EA1586.htm" target="_self">
+<area shape="rect" coords="296,862,568,983" href="EA1508.htm" target="_self">
+<area shape="rect" coords="921,1044,1251,1172" href="../../../../EA1/EA3/EA178.htm" target="_self">
+<area shape="rect" coords="569,1889,786,1941" href="../../../../EA1/EA1/EA6/EA114.htm" target="_self">
+<area shape="rect" coords="535,2015,899,2139" href="../EA16/EA1564.htm" target="_self">
+<area shape="rect" coords="531,1424,903,1565" href="../EA16/EA1556.htm" target="_self">
+<area shape="rect" coords="1152,1205,1317,1385" href="../../EA2/EA1587.htm" target="_self">
+<area shape="rect" coords="10,91,208,297" href="../../EA2/EA1582.htm" target="_self">
+<area shape="rect" coords="431,517,856,700" href="../../EA4/EA1631.htm" target="_self">
+<area shape="rect" coords="319,1168,748,1374" href="../../EA4/EA1633.htm" target="_self">
+<area shape="rect" coords="530,250,798,326" href="../../EA4/EA1637.htm" target="_self">
+</MAP>
+
+	<div class="ObjectTitle">ParkingStatus : Class diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">01/10/2021 14:02:32</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">22/11/2021 12:16:35</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">Wright / Freudenstein</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">0.4</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{9A3880B6-7B55-4e33-B934-5689F15DBD00}</td>
+		</tr>
+	</table>
+	
+</div>
+ 
+</body>
+</html>

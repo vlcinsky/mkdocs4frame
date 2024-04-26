@@ -1,0 +1,14 @@
+tocTab[tocTab.length] = new Array("0.3.8.1.3:1", "", "TypeOfRegulation", "EARoot/EA3/EA8/EA1/EA3/EA1335.htm", "175.png", "3436", "0", "", "Logical diagram0","{4D38B623-DF5E-4ba4-9D63-719736C40769}");
+tocTab[tocTab.length] = new Array("0.3.8.1.3:2", "", "«D2Class» AccessRestriction", "EARoot/EA3/EA8/EA1/EA3/EA1339.htm", "5.png", "E20063", "0", "", "Class0","{42D14E03-1011-4507-AA79-8BE75D02E755}");
+tocTab[tocTab.length] = new Array("0.3.8.1.3:3", "", "«D2Class» AlternateRoadOrCarriagewayOrLaneLayout", "EARoot/EA3/EA8/EA1/EA3/EA1340.htm", "5.png", "E20064", "0", "", "Class0","{22344426-6234-4405-9983-AD9FDE6BE4C2}");
+tocTab[tocTab.length] = new Array("0.3.8.1.3:4", "", "«D2Class» DirectionRestriction", "EARoot/EA3/EA8/EA1/EA3/EA1341.htm", "5.png", "E20065", "0", "", "Class0","{565D0A51-FAAD-4e31-955A-624BE413FDBA}");
+tocTab[tocTab.length] = new Array("0.3.8.1.3:5", "", "«D2Class» MandatoryRoadOrCarriagewayOrLaneUsage", "EARoot/EA3/EA8/EA1/EA3/EA1342.htm", "5.png", "E20066", "0", "", "Class0","{755B450C-9758-4a5a-BF67-8FD1E23846D4}");
+tocTab[tocTab.length] = new Array("0.3.8.1.3:6", "", "«D2Class» MinimumDistanceRestriction", "EARoot/EA3/EA8/EA1/EA3/EA1343.htm", "5.png", "E20067", "0", "", "Class0","{28E71316-92EE-4a4d-B551-64C492D8B95C}");
+tocTab[tocTab.length] = new Array("0.3.8.1.3:7", "", "«D2Class» OvertakingBan", "EARoot/EA3/EA8/EA1/EA3/EA1344.htm", "5.png", "E20068", "0", "", "Class0","{08AA1725-50B9-42b8-9554-9C3B792C76F3}");
+tocTab[tocTab.length] = new Array("0.3.8.1.3:8", "", "«D2Class» PriorityRule", "EARoot/EA3/EA8/EA1/EA3/EA1345.htm", "5.png", "E20069", "0", "", "Class0","{D6317C38-5A7F-4d47-B39C-CA6CD8647E6E}");
+tocTab[tocTab.length] = new Array("0.3.8.1.3:9", "", "«D2Class» Rerouting", "EARoot/EA3/EA8/EA1/EA3/EA1346.htm", "5.png", "E20070", "0", "", "Class0","{94922AB6-D981-428d-A64F-898474B19711}");
+tocTab[tocTab.length] = new Array("0.3.8.1.3:10", "", "«D2Class» RushHourLaneRestriction", "EARoot/EA3/EA8/EA1/EA3/EA1347.htm", "5.png", "E20071", "0", "", "Class0","{E9E257EE-45B2-4167-934D-2DF63CAA0B58}");
+tocTab[tocTab.length] = new Array("0.3.8.1.3:11", "", "«D2Class» Speed", "EARoot/EA3/EA8/EA1/EA3/EA1348.htm", "5.png", "E20072", "0", "", "Class0","{987CDB70-5404-4a45-8A22-31D28B8EAA6B}");
+tocTab[tocTab.length] = new Array("0.3.8.1.3:12", "", "«D2Class» SpeedLimit", "EARoot/EA3/EA8/EA1/EA3/EA1349.htm", "5.png", "E20073", "0", "", "Class0","{6FFEF9DE-32DE-45cf-B9D8-7C2197B3D125}");
+tocTab[tocTab.length] = new Array("0.3.8.1.3:13", "", "«D2Class» StandingOrParkingRestriction", "EARoot/EA3/EA8/EA1/EA3/EA1350.htm", "5.png", "E20074", "0", "", "Class0","{4E682C84-696F-4d00-8C18-9206F7AC62D6}");
+tocTab[tocTab.length] = new Array("0.3.8.1.3:14", "", "«D2Class» TypeOfRegulation", "EARoot/EA3/EA8/EA1/EA3/EA1351.htm", "5.png", "E20075", "0", "", "Class0","{FF00D907-20D5-48f8-9C24-3E57D8AE54DE}");

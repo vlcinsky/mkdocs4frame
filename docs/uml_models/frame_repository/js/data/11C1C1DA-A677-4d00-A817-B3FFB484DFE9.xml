@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.4.5.1.4:1", "", "TmplanOperation", "EARoot/EA4/EA5/EA1/EA4/EA1822.htm", "175.png", "3499", "0", "", "Logical diagram0","{69892A68-103E-45c6-A01C-78BED1619D54}");
+tocTab[tocTab.length] = new Array("0.4.5.1.4:2", "", "«D2Class» NonPredefinedAction", "EARoot/EA4/EA5/EA1/EA4/EA1825.htm", "5.png", "E20380", "0", "", "Class0","{CD0DE4BE-AA19-4289-84A1-77E1A06A98C9}");
+tocTab[tocTab.length] = new Array("0.4.5.1.4:3", "", "«D2Class» NonPredefinedTmplanOperation", "EARoot/EA4/EA5/EA1/EA4/EA1826.htm", "5.png", "E20381", "0", "", "Class0","{972BAD2D-D138-41e3-B851-0EF1AD5F1B50}");
+tocTab[tocTab.length] = new Array("0.4.5.1.4:4", "", "«D2Class» PredefinedAction", "EARoot/EA4/EA5/EA1/EA4/EA1827.htm", "5.png", "E20382", "0", "", "Class0","{A5F9D1F1-CDFC-455c-B222-1E4C8C81899C}");
+tocTab[tocTab.length] = new Array("0.4.5.1.4:5", "", "«D2Class» PredefinedMeasureSelected", "EARoot/EA4/EA5/EA1/EA4/EA1828.htm", "5.png", "E20383", "0", "", "Class0","{6E2AA1C6-9ED8-4eaa-8F25-FE649F5973E8}");
+tocTab[tocTab.length] = new Array("0.4.5.1.4:6", "", "«D2Class» PredefinedTmplanOperation", "EARoot/EA4/EA5/EA1/EA4/EA1829.htm", "5.png", "E20384", "0", "", "Class0","{D49AE07E-324E-4727-B11C-D259F8AA2133}");
+tocTab[tocTab.length] = new Array("0.4.5.1.4:7", "", "«D2VersionedIdentifiable» TmplanOperation", "EARoot/EA4/EA5/EA1/EA4/EA1830.htm", "5.png", "E20385", "0", "", "Class0","{A152DE02-E5BF-4376-BD73-E465D4AD0171}");

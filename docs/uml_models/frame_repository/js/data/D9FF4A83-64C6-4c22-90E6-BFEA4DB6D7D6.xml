@@ -1,0 +1,17 @@
+tocTab[tocTab.length] = new Array("0.1.1.2:1", "", "DataValue", "EARoot/EA1/EA1/EA2/EA69.htm", "175.png", "3295", "0", "", "Logical diagram0","{1C81CF85-376C-4520-8690-AE9FAB5D43C4}");
+tocTab[tocTab.length] = new Array("0.1.1.2:2", "", "«D2Class» ApplicationRateValue", "EARoot/EA1/EA1/EA2/EA72.htm", "5.png", "E19195", "0", "", "Class0","{078E634B-F2BA-4f76-95BA-AA157AB13FFF}");
+tocTab[tocTab.length] = new Array("0.1.1.2:3", "", "«D2Class» DataValue", "EARoot/EA1/EA1/EA2/EA73.htm", "5.png", "E19196", "0", "", "Class0","{F38F50F6-1117-4918-809F-00A9F4284FBD}");
+tocTab[tocTab.length] = new Array("0.1.1.2:4", "", "«D2Class» DirectionBearingValue", "EARoot/EA1/EA1/EA2/EA74.htm", "5.png", "E19197", "0", "", "Class0","{E53A2F37-5CFF-4715-A76B-AFDE7CD0E057}");
+tocTab[tocTab.length] = new Array("0.1.1.2:5", "", "«D2Class» DirectionCompassValue", "EARoot/EA1/EA1/EA2/EA75.htm", "5.png", "E19198", "0", "", "Class0","{D9F2AEF5-4684-42b3-92A6-B26FCDB22622}");
+tocTab[tocTab.length] = new Array("0.1.1.2:6", "", "«D2Class» FloatingPointMetreDistanceValue", "EARoot/EA1/EA1/EA2/EA76.htm", "5.png", "E19199", "0", "", "Class0","{EFBCE3DA-3307-4dfc-AB4F-9131ACEA71D4}");
+tocTab[tocTab.length] = new Array("0.1.1.2:7", "", "«D2Class» FrictionValue", "EARoot/EA1/EA1/EA2/EA77.htm", "5.png", "E19200", "0", "", "Class0","{696B4EA7-C829-49f6-A127-000AF0EAE50A}");
+tocTab[tocTab.length] = new Array("0.1.1.2:8", "", "«D2Class» IntegerMetreDistanceValue", "EARoot/EA1/EA1/EA2/EA78.htm", "5.png", "E19201", "0", "", "Class0","{ECCC2012-8612-430b-B77E-EAB2791E7C6F}");
+tocTab[tocTab.length] = new Array("0.1.1.2:9", "", "«D2Class» KilogramsConcentrationValue", "EARoot/EA1/EA1/EA2/EA79.htm", "5.png", "E19202", "0", "", "Class0","{015F8461-8BB1-46d5-9431-0C1A81C76F50}");
+tocTab[tocTab.length] = new Array("0.1.1.2:10", "", "«D2Class» MicrogramsConcentrationValue", "EARoot/EA1/EA1/EA2/EA80.htm", "5.png", "E19203", "0", "", "Class0","{6F83104E-642E-4715-BDCC-6A4DA89A69DD}");
+tocTab[tocTab.length] = new Array("0.1.1.2:11", "", "«D2Class» PercentageValue", "EARoot/EA1/EA1/EA2/EA81.htm", "5.png", "E19204", "0", "", "Class0","{649A1B6C-14F5-438e-A81B-7DEAD9D91B94}");
+tocTab[tocTab.length] = new Array("0.1.1.2:12", "", "«D2Class» PrecipitationIntensityValue", "EARoot/EA1/EA1/EA2/EA82.htm", "5.png", "E19205", "0", "", "Class0","{FB80B45A-3D9A-4a72-98B2-801285541605}");
+tocTab[tocTab.length] = new Array("0.1.1.2:13", "", "«D2Class» PressureValue", "EARoot/EA1/EA1/EA2/EA83.htm", "5.png", "E19206", "0", "", "Class0","{EEF6D42D-9B05-48b3-8C23-B8B23FE3EF29}");
+tocTab[tocTab.length] = new Array("0.1.1.2:14", "", "«D2Class» SpeedValue", "EARoot/EA1/EA1/EA2/EA84.htm", "5.png", "E19207", "0", "", "Class0","{B47897A2-F6FC-4be3-980A-DEA1123B6945}");
+tocTab[tocTab.length] = new Array("0.1.1.2:15", "", "«D2Class» TemperatureValue", "EARoot/EA1/EA1/EA2/EA85.htm", "5.png", "E19208", "0", "", "Class0","{7891432E-A908-476c-BA2D-EF1536405ADE}");
+tocTab[tocTab.length] = new Array("0.1.1.2:16", "", "«D2Class» VehicleFlowValue", "EARoot/EA1/EA1/EA2/EA86.htm", "5.png", "E19209", "0", "", "Class0","{A5A59387-6423-4071-A66B-6A92D9FC8813}");
+tocTab[tocTab.length] = new Array("0.1.1.2:17", "", "«D2Class» WindSpeedValue", "EARoot/EA1/EA1/EA2/EA87.htm", "5.png", "E19210", "0", "", "Class0","{72D7BBB1-D85A-4648-9D21-9B5C29716F00}");

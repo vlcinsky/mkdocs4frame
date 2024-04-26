@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.2.3.2:1", "", "Gml", "EARoot/EA2/EA3/EA2/EA347.htm", "175.png", "3319", "0", "", "Logical diagram0","{7B872450-4873-440f-BBE4-EB4BC81CF7DC}");
+tocTab[tocTab.length] = new Array("0.2.3.2:2", "", "«D2Class» GmlLinearRing", "EARoot/EA2/EA3/EA2/EA350.htm", "5.png", "E19405", "0", "", "Class0","{D8C0297D-8283-4fe7-96BA-7B6AEE74083D}");
+tocTab[tocTab.length] = new Array("0.2.3.2:3", "", "«D2Class» GmlLineString", "EARoot/EA2/EA3/EA2/EA351.htm", "5.png", "E19406", "0", "", "Class0","{3D271A89-15EA-45f8-B5B1-5F37E7FD9B10}");
+tocTab[tocTab.length] = new Array("0.2.3.2:4", "", "«D2Class» GmlMultiPolygon", "EARoot/EA2/EA3/EA2/EA352.htm", "5.png", "E19407", "0", "", "Class0","{DC6E8E84-2787-4e5c-9A29-588205E1511C}");
+tocTab[tocTab.length] = new Array("0.2.3.2:5", "", "«D2Class» GmlPolygon", "EARoot/EA2/EA3/EA2/EA353.htm", "5.png", "E19408", "0", "", "Class0","{F00FF3F2-71E8-42d4-989E-75F789570D1D}");
