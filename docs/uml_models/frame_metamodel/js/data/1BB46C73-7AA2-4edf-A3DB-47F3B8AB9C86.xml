@@ -1,6 +1,0 @@
-tocTab[tocTab.length] = new Array("0.3.8:1", "", "namespace dependencies", "EARoot/EA3/EA8/EA1271.htm", "176.png", "3429", "0", "", "Package diagram0","{5C9E306C-AB57-42ae-A572-A0DC88E6FB53}");
-tocTab[tocTab.length] = new Array("0.3.8:2", "", "TrafficRegulation", "EARoot/EA3/EA8/EA1273.htm", "175.png", "3428", "0", "", "Logical diagram0","{D64BB582-AB94-4774-9E1D-5F27B64C6952}");
-tocTab[tocTab.length] = new Array("0.3.8.1", "1", "«D2Package» Classes", "EARoot/EA3/EA8/EA1/EA1282.htm", "4.png", "", "", "{BB062706-2A94-4f75-BBBD-D0F169FC6967}", "Package");
-tocTab[tocTab.length] = new Array("0.3.8.2", "1", "«D2Package» DataTypes", "EARoot/EA3/EA8/EA2/EA1363.htm", "4.png", "", "", "{F001684D-3467-4f12-943B-1F5B39805E40}", "Package");
-tocTab[tocTab.length] = new Array("0.3.8.3", "1", "«D2Package» Enumerations", "EARoot/EA3/EA8/EA3/EA1369.htm", "4.png", "", "", "{751305A1-1731-4589-ABEA-66C9B288F226}", "Package");
-tocTab[tocTab.length] = new Array("0.3.8.4", "1", "«D2Package» TrafficRegulationPublication", "EARoot/EA3/EA8/EA4/EA1397.htm", "4.png", "", "", "{EF916884-00D4-4601-876E-B9207CF0E227}", "Package");

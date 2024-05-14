@@ -1,5 +1,0 @@
-tocTab[tocTab.length] = new Array("0.2.3.6:1", "", "TpegLoc", "EARoot/EA2/EA3/EA6/EA396.htm", "176.png", "3325", "0", "", "Package diagram0","{3591B887-8866-4d5d-9587-18CC930277A6}");
-tocTab[tocTab.length] = new Array("0.2.3.6.1", "1", "«D2Package» TpegAreaLocation", "EARoot/EA2/EA3/EA6/EA1/EA405.htm", "4.png", "", "", "{274C0F36-6C10-4860-823A-0EA091E62856}", "Package");
-tocTab[tocTab.length] = new Array("0.2.3.6.2", "1", "«D2Package» TpegDescriptor", "EARoot/EA2/EA3/EA6/EA2/EA413.htm", "4.png", "", "", "{B2877473-AE8F-42f0-9A50-51FD7BE9E90E}", "Package");
-tocTab[tocTab.length] = new Array("0.2.3.6.3", "1", "«D2Package» TpegLinearLocation", "EARoot/EA2/EA3/EA6/EA3/EA422.htm", "4.png", "", "", "{BD389615-EBA7-4a04-8B0F-F647EE431B3A}", "Package");
-tocTab[tocTab.length] = new Array("0.2.3.6.4", "1", "«D2Package» TpegPointLocation", "EARoot/EA2/EA3/EA6/EA4/EA426.htm", "4.png", "", "", "{AEAA416A-6799-4fa7-9D34-8CE2E2BDD7D2}", "Package");

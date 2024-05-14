@@ -1,7 +1,0 @@
-tocTab[tocTab.length] = new Array("0.4.5:1", "", "Extension TrafficManagementPlan", "EARoot/EA4/EA5/EA1779.htm", "175.png", "3492", "0", "", "Logical diagram0","{EA588336-9F60-4e18-A963-54216CEE22D1}");
-tocTab[tocTab.length] = new Array("0.4.5:2", "", "Namespace dependencies", "EARoot/EA4/EA5/EA1781.htm", "176.png", "3493", "0", "", "Package diagram0","{6BD21B3D-8BB4-4a60-941E-168FB1E771C4}");
-tocTab[tocTab.length] = new Array("0.4.5.1", "1", "«D2Package» Classes", "EARoot/EA4/EA5/EA1/EA1792.htm", "4.png", "", "", "{2DF959FE-3BC3-4c72-93C8-6F8BDAF6F318}", "Package");
-tocTab[tocTab.length] = new Array("0.4.5.2", "1", "«D2Package» DataTypes", "EARoot/EA4/EA5/EA2/EA1848.htm", "4.png", "", "", "{CD53EB5A-08D1-4609-BDE1-87FD8D081098}", "Package");
-tocTab[tocTab.length] = new Array("0.4.5.3", "1", "«D2Package» Enumerations", "EARoot/EA4/EA5/EA3/EA1852.htm", "4.png", "", "", "{D8840796-4E36-499d-9B65-773339E2E57D}", "Package");
-tocTab[tocTab.length] = new Array("0.4.5.4", "1", "«D2Package» TmplanOperationPublication", "EARoot/EA4/EA5/EA4/EA1856.htm", "4.png", "", "", "{08DAD097-AA95-4e6a-AABF-EF3C4388CC69}", "Package");
-tocTab[tocTab.length] = new Array("0.4.5.5", "1", "«D2Package» TmplanTablePublication", "EARoot/EA4/EA5/EA5/EA1861.htm", "4.png", "", "", "{F297EB31-880D-4d84-BF98-8B501E9EB6E4}", "Package");

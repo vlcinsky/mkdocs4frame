@@ -1,7 +1,0 @@
-tocTab[tocTab.length] = new Array("0.2.3.6.4:1", "", "TpegPointLocation", "EARoot/EA2/EA3/EA6/EA4/EA424.htm", "175.png", "3329", "0", "", "Logical diagram0","{2EC6DF84-7327-41f9-AD63-13C50B1BE254}");
-tocTab[tocTab.length] = new Array("0.2.3.6.4:2", "", "«D2Class» TpegFramedPoint", "EARoot/EA2/EA3/EA6/EA4/EA430.htm", "5.png", "E19459", "0", "", "Class0","{185BD9D6-8E35-4d28-8101-625DA87F6B4B}");
-tocTab[tocTab.length] = new Array("0.2.3.6.4:3", "", "«D2Class» TpegPoint", "EARoot/EA2/EA3/EA6/EA4/EA431.htm", "5.png", "E19460", "0", "", "Class0","{D87B7004-4CAE-4c36-B5D0-09BFE64AC3E3}");
-tocTab[tocTab.length] = new Array("0.2.3.6.4:4", "", "«D2Class» TpegPointLocation", "EARoot/EA2/EA3/EA6/EA4/EA432.htm", "5.png", "E19461", "0", "", "Class0","{E4535F04-E240-433b-8170-D6ECEBB0B826}");
-tocTab[tocTab.length] = new Array("0.2.3.6.4:5", "", "«D2Class» TpegSimplePoint", "EARoot/EA2/EA3/EA6/EA4/EA433.htm", "5.png", "E19462", "0", "", "Class0","{2618935B-4B08-4d29-BCE3-063FFBB883B2}");
-tocTab[tocTab.length] = new Array("0.2.3.6.4:6", "", "«D2Class» TpegJunction", "EARoot/EA2/EA3/EA6/EA4/EA434.htm", "5.png", "E19463", "0", "", "Class0","{CA24D8F2-82B7-4411-B0AA-506C4BBBB469}");
-tocTab[tocTab.length] = new Array("0.2.3.6.4:7", "", "«D2Class» TpegNonJunctionPoint", "EARoot/EA2/EA3/EA6/EA4/EA435.htm", "5.png", "E19464", "0", "", "Class0","{135081C1-2858-4a08-95FD-97E80A9C5639}");

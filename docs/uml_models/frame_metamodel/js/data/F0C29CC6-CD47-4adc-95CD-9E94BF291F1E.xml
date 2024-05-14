@@ -1,4 +1,0 @@
-tocTab[tocTab.length] = new Array("0.1.1.5:1", "", "Vehicle", "EARoot/EA1/EA1/EA5/EA108.htm", "175.png", "3298", "0", "", "Logical diagram0","{513D7773-BDC2-4945-8FE3-8C25076AE3EE}");
-tocTab[tocTab.length] = new Array("0.1.1.5:2", "", "«D2Class» AxleSpacing", "EARoot/EA1/EA1/EA5/EA111.htm", "5.png", "E19228", "0", "", "Class0","{B456B531-C277-426b-A669-EBA0C3B69DAC}");
-tocTab[tocTab.length] = new Array("0.1.1.5:3", "", "«D2Class» AxleWeight", "EARoot/EA1/EA1/EA5/EA112.htm", "5.png", "E19229", "0", "", "Class0","{2282EC07-36C2-431e-9FF0-511057C7E248}");
-tocTab[tocTab.length] = new Array("0.1.1.5:4", "", "«D2Class» Vehicle", "EARoot/EA1/EA1/EA5/EA113.htm", "5.png", "E19230", "0", "", "Class0","{EED11672-97F8-47f5-8EE7-D8F41C785480}");

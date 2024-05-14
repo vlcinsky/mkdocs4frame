@@ -1,6 +1,0 @@
-tocTab[tocTab.length] = new Array("0.2.4:1", "", "PredefinedLocationsPublication", "EARoot/EA2/EA4/EA480.htm", "175.png", "3335", "0", "", "Logical diagram0","{71AE0CEE-F10D-48ee-B679-3EAD330AF97C}");
-tocTab[tocTab.length] = new Array("0.2.4:2", "", "«D2VersionedIdentifiable» PredefinedItinerary", "EARoot/EA2/EA4/EA485.htm", "5.png", "E19499", "0", "", "Class0","{DFD38182-C859-4ce6-B90B-473AB423A21E}");
-tocTab[tocTab.length] = new Array("0.2.4:3", "", "«D2VersionedIdentifiable» PredefinedLocation", "EARoot/EA2/EA4/EA486.htm", "5.png", "E19500", "0", "", "Class0","{85139981-6F49-47bc-A7C9-A2787ECF5874}");
-tocTab[tocTab.length] = new Array("0.2.4:4", "", "«D2VersionedIdentifiable» PredefinedLocationGroup", "EARoot/EA2/EA4/EA487.htm", "5.png", "E19501", "0", "", "Class0","{79C43ED8-25F1-4c47-BE4F-007423732BF4}");
-tocTab[tocTab.length] = new Array("0.2.4:5", "", "«D2Class» PredefinedLocationReference", "EARoot/EA2/EA4/EA488.htm", "5.png", "E19502", "0", "", "Class0","{AF1897C9-6689-4b8f-A531-A62190B9FFA8}");
-tocTab[tocTab.length] = new Array("0.2.4:6", "", "«D2Class» PredefinedLocationsPublication", "EARoot/EA2/EA4/EA489.htm", "5.png", "E19503", "0", "", "Class0","{B435E371-2AEC-462d-8892-5E003C0597AC}");

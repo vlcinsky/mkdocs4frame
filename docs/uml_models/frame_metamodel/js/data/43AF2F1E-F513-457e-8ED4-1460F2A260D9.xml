@@ -1,7 +1,0 @@
-tocTab[tocTab.length] = new Array("0.4.3.2:1", "", "LocationExtension (stable elements)", "EARoot/EA4/EA3/EA2/EA1740.htm", "175.png", "3484", "0", "", "Logical diagram0","{02EA26C5-124D-4413-9BFD-9E56AD28D74D}");
-tocTab[tocTab.length] = new Array("0.4.3.2:2", "", "«D2Class» Address", "EARoot/EA4/EA3/EA2/EA1743.htm", "5.png", "E20338", "0", "", "Class0","{8B6C9804-34F2-4053-ADCC-6D8139D069E7}");
-tocTab[tocTab.length] = new Array("0.4.3.2:3", "", "«D2Class» AddressLine", "EARoot/EA4/EA3/EA2/EA1744.htm", "5.png", "E20339", "0", "", "Class0","{D8545AFB-B8D0-4396-8162-0B5AE6B91241}");
-tocTab[tocTab.length] = new Array("0.4.3.2:4", "", "«D2Class» FacilityLocation", "EARoot/EA4/EA3/EA2/EA1745.htm", "5.png", "E20340", "0", "", "Class0","{3FE17B9A-69FB-4617-98EA-35826E5C1AEA}");
-tocTab[tocTab.length] = new Array("0.4.3.2:5", "", "«D2Datatype» NamedAreaCode", "EARoot/EA4/EA3/EA2/EA1746.htm", "230.png", "E20342", "0", "", "DataType0","{2220A94D-04CE-4ed8-BD80-322E2B8B233D}");
-tocTab[tocTab.length] = new Array("0.4.3.2:6", "", "«D2Class» NamedAreaExtended", "EARoot/EA4/EA3/EA2/EA1747.htm", "5.png", "E20341", "0", "", "Class0","{DAEDA5AD-CBC3-4fcd-A84C-163E6D72EAE7}");
-tocTab[tocTab.length] = new Array("0.4.3.2:7", "", "«D2Enumeration» AddressLineTypeEnum", "EARoot/EA4/EA3/EA2/EA1748.htm", "247.png", "E20343", "0", "", "Enumeration0","{6FB990D0-3C82-424a-A22A-6FF1E5243DD2}");

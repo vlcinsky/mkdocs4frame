@@ -1,5 +1,0 @@
-tocTab[tocTab.length] = new Array("0.2.3.5:1", "", "SupplementaryPositionalDescription", "EARoot/EA2/EA3/EA5/EA389.htm", "175.png", "3324", "0", "", "Logical diagram0","{19FEE709-D889-4935-A8B3-10589ED02830}");
-tocTab[tocTab.length] = new Array("0.2.3.5:2", "", "«D2Class» Lane", "EARoot/EA2/EA3/EA5/EA392.htm", "5.png", "E19435", "0", "", "Class0","{E48F56CA-7AE8-49f3-9BCA-2B1E2F69CCEE}");
-tocTab[tocTab.length] = new Array("0.2.3.5:3", "", "«D2Class» RoadInformation", "EARoot/EA2/EA3/EA5/EA393.htm", "5.png", "E19436", "0", "", "Class0","{2DD3DF23-1753-4333-B61A-3AD8D4107E91}");
-tocTab[tocTab.length] = new Array("0.2.3.5:4", "", "«D2Class» Carriageway", "EARoot/EA2/EA3/EA5/EA394.htm", "5.png", "E19437", "0", "", "Class0","{EEB24F26-7F2A-4c5d-9728-578F931E4B51}");
-tocTab[tocTab.length] = new Array("0.2.3.5:5", "", "«D2Class» SupplementaryPositionalDescription", "EARoot/EA2/EA3/EA5/EA395.htm", "5.png", "E19438", "0", "", "Class0","{EB0BF15E-C269-4f69-86DC-94F1518CB8CC}");

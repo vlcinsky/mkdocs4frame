@@ -1,9 +1,0 @@
-tocTab[tocTab.length] = new Array("0.1.1.6:1", "", "VehicleCharacteristics", "EARoot/EA1/EA1/EA6/EA114.htm", "175.png", "3299", "0", "", "Logical diagram0","{2581528A-5D13-4f42-B92A-7DB75038024E}");
-tocTab[tocTab.length] = new Array("0.1.1.6:2", "", "«D2Class» Emissions", "EARoot/EA1/EA1/EA6/EA118.htm", "5.png", "E19233", "0", "", "Class0","{F82C4017-FC0E-4be3-A06F-681576B084D4}");
-tocTab[tocTab.length] = new Array("0.1.1.6:3", "", "«D2Class» GrossWeightCharacteristic", "EARoot/EA1/EA1/EA6/EA119.htm", "5.png", "E19234", "0", "", "Class0","{8CF7AB8D-00E4-4427-9389-5C04E1797044}");
-tocTab[tocTab.length] = new Array("0.1.1.6:4", "", "«D2Class» HeaviestAxleWeightCharacteristic", "EARoot/EA1/EA1/EA6/EA120.htm", "5.png", "E19235", "0", "", "Class0","{95314B2F-48FA-4731-AF68-B66ADC0E5CF2}");
-tocTab[tocTab.length] = new Array("0.1.1.6:5", "", "«D2Class» HeightCharacteristic", "EARoot/EA1/EA1/EA6/EA121.htm", "5.png", "E19236", "0", "", "Class0","{87BC70D8-A16C-4b75-A917-523696EA9341}");
-tocTab[tocTab.length] = new Array("0.1.1.6:6", "", "«D2Class» LengthCharacteristic", "EARoot/EA1/EA1/EA6/EA122.htm", "5.png", "E19237", "0", "", "Class0","{DD7B363C-90C2-46b1-948D-A0E1312867D5}");
-tocTab[tocTab.length] = new Array("0.1.1.6:7", "", "«D2Class» NumberOfAxlesCharacteristic", "EARoot/EA1/EA1/EA6/EA123.htm", "5.png", "E19238", "0", "", "Class0","{65512B6E-83D8-4c46-ACFC-ED07639A0EC5}");
-tocTab[tocTab.length] = new Array("0.1.1.6:8", "", "«D2Class» VehicleCharacteristics", "EARoot/EA1/EA1/EA6/EA124.htm", "5.png", "E19239", "0", "", "Class0","{3E56124E-0654-4d2a-B78E-2C7C6A470500}");
-tocTab[tocTab.length] = new Array("0.1.1.6:9", "", "«D2Class» WidthCharacteristic", "EARoot/EA1/EA1/EA6/EA125.htm", "5.png", "E19240", "0", "", "Class0","{CF440CEA-5AE2-411b-889D-4F188DDCA136}");

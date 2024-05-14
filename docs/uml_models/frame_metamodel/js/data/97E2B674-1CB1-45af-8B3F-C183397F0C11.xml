@@ -1,7 +1,0 @@
-tocTab[tocTab.length] = new Array("0.3.2.2:1", "", "DataTypes", "EARoot/EA3/EA2/EA2/EA615.htm", "175.png", "3350", "0", "", "Logical diagram0","{A991572E-57D0-49ec-88B9-E5281E2B5522}");
-tocTab[tocTab.length] = new Array("0.3.2.2:2", "", "«D2Datatype» AmountOfMoney", "EARoot/EA3/EA2/EA2/EA618.htm", "230.png", "E19579", "0", "", "DataType0","{94DA9A81-1920-4239-9B84-0B61B5ED4AA5}");
-tocTab[tocTab.length] = new Array("0.3.2.2:3", "", "«D2Datatype» CurrencyCode", "EARoot/EA3/EA2/EA2/EA619.htm", "230.png", "E19580", "0", "", "DataType0","{AFF9F891-1272-449e-B18C-C12A7EB11F50}");
-tocTab[tocTab.length] = new Array("0.3.2.2:4", "", "«D2Datatype» Duration", "EARoot/EA3/EA2/EA2/EA620.htm", "230.png", "E19581", "0", "", "DataType0","{5C398D35-14B1-448c-A771-433B5BB56FB8}");
-tocTab[tocTab.length] = new Array("0.3.2.2:5", "", "«D2Datatype» IndexReference", "EARoot/EA3/EA2/EA2/EA621.htm", "230.png", "E19582", "0", "", "DataType0","{EC367E74-F104-4a1d-B3A2-43C3C10EF9CD}");
-tocTab[tocTab.length] = new Array("0.3.2.2:6", "", "«D2Datatype» SquareMetres", "EARoot/EA3/EA2/EA2/EA622.htm", "230.png", "E19583", "0", "", "DataType0","{F4C3CF05-FC41-49cd-A670-AADB661B05D4}");
-tocTab[tocTab.length] = new Array("0.3.2.2:7", "", "«D2Datatype» TimeZone", "EARoot/EA3/EA2/EA2/EA623.htm", "230.png", "E19584", "0", "", "DataType0","{38EFFEAC-F231-48a8-8FBA-A708290DB808}");

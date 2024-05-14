@@ -1,8 +1,0 @@
-tocTab[tocTab.length] = new Array("0.3.5.1.4:1", "", "TrafficElement", "EARoot/EA3/EA5/EA1/EA4/EA1012.htm", "175.png", "3402", "0", "", "Logical diagram0","{CD2000CE-8BBB-4cf9-AA4A-26B749BC942F}");
-tocTab[tocTab.length] = new Array("0.3.5.1.4:2", "", "«D2Class» AbnormalTraffic", "EARoot/EA3/EA5/EA1/EA4/EA1015.htm", "5.png", "E19833", "0", "", "Class0","{3C5308BC-9926-49c9-8A47-5E3515088181}");
-tocTab[tocTab.length] = new Array("0.3.5.1.4:3", "", "«D2Class» EquipmentOrSystemFault", "EARoot/EA3/EA5/EA1/EA4/EA1018.htm", "5.png", "E19834", "0", "", "Class0","{7CF5610D-3B26-4693-A396-FCF05E7FFD80}");
-tocTab[tocTab.length] = new Array("0.3.5.1.4:4", "", "«D2Class» TrafficElement", "EARoot/EA3/EA5/EA1/EA4/EA1019.htm", "5.png", "E19835", "0", "", "Class0","{A962FB42-54A3-4b15-AF47-C882AEBCF109}");
-tocTab[tocTab.length] = new Array("0.3.5.1.4.1", "1", "«D2Package» Activity", "EARoot/EA3/EA5/EA1/EA4/EA1/EA1024.htm", "4.png", "", "", "{A24B4CB8-7D40-46a9-B9E6-11FB5F33C573}", "Package");
-tocTab[tocTab.length] = new Array("0.3.5.1.4.2", "1", "«D2Package» Conditions", "EARoot/EA3/EA5/EA1/EA4/EA2/EA1031.htm", "4.png", "", "", "{8B0C5197-AE37-4c72-8BF2-5453F57F4F42}", "Package");
-tocTab[tocTab.length] = new Array("0.3.5.1.4.3", "1", "«D2Package» Accident", "EARoot/EA3/EA5/EA1/EA4/EA3/EA1039.htm", "4.png", "", "", "{93F1DAAF-34D1-4bc0-B1E4-84E3CD1225EB}", "Package");
-tocTab[tocTab.length] = new Array("0.3.5.1.4.4", "1", "«D2Package» Obstruction", "EARoot/EA3/EA5/EA1/EA4/EA4/EA1043.htm", "4.png", "", "", "{E4C376AC-8DDA-4309-8798-CACE8CD3E33C}", "Package");

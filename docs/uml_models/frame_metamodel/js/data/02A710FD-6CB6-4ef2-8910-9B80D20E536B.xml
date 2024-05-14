@@ -1,7 +1,0 @@
-tocTab[tocTab.length] = new Array("0.3.4.4:1", "", "Enumerations", "EARoot/EA3/EA4/EA4/EA933.htm", "175.png", "3392", "0", "", "Logical diagram0","{BA43A85D-0BF6-48d2-B466-91F673D5805C}");
-tocTab[tocTab.length] = new Array("0.3.4.4:2", "", "«D2Enumeration» PhysicalQuantityFaultEnum", "EARoot/EA3/EA4/EA4/EA936.htm", "247.png", "E19783", "0", "", "Enumeration0","{8F163206-301C-4b53-B22F-384EEF4F123F}");
-tocTab[tocTab.length] = new Array("0.3.4.4:3", "", "«D2Enumeration» TimeMeaningEnum", "EARoot/EA3/EA4/EA4/EA937.htm", "247.png", "E19784", "0", "", "Enumeration0","{B684B960-4E95-48d7-9084-1169CD665234}");
-tocTab[tocTab.length] = new Array("0.3.4.4:4", "", "«D2Enumeration» TrafficStatusEnum", "EARoot/EA3/EA4/EA4/EA938.htm", "247.png", "E19785", "0", "", "Enumeration0","{1D90B47B-6E67-4f0f-9E92-611FC95F2326}");
-tocTab[tocTab.length] = new Array("0.3.4.4:5", "", "«D2Enumeration» MeasuredOrDerivedDataTypeEnum", "EARoot/EA3/EA4/EA4/EA939.htm", "247.png", "E19786", "0", "", "Enumeration0","{E98B9CBE-2504-4006-8EA8-3D5FCBC16B8E}");
-tocTab[tocTab.length] = new Array("0.3.4.4:6", "", "«D2Enumeration» TravelTimeTrendTypeEnum", "EARoot/EA3/EA4/EA4/EA940.htm", "247.png", "E19787", "0", "", "Enumeration0","{ED4D2DBC-B8F7-49e8-BB85-9A9417921A56}");
-tocTab[tocTab.length] = new Array("0.3.4.4:7", "", "«D2Enumeration» TravelTimeTypeEnum", "EARoot/EA3/EA4/EA4/EA941.htm", "247.png", "E19788", "0", "", "Enumeration0","{93069BA7-D464-4946-B6F7-CB61F6F1A6F2}");

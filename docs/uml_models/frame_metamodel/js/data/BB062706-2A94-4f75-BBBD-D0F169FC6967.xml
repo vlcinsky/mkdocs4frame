@@ -1,5 +1,0 @@
-tocTab[tocTab.length] = new Array("0.3.8.1:1", "", "Classes", "EARoot/EA3/EA8/EA1/EA1280.htm", "175.png", "3430", "0", "", "Logical diagram0","{42E259C2-83E2-4386-8236-D4CE85467D0E}");
-tocTab[tocTab.length] = new Array("0.3.8.1.1", "1", "«D2Package» TrafficRegulation", "EARoot/EA3/EA8/EA1/EA1/EA1291.htm", "4.png", "", "", "{9111C009-64AB-4776-89E0-82F687E28421}", "Package");
-tocTab[tocTab.length] = new Array("0.3.8.1.2", "1", "«D2Package» TrafficRegulationOrder", "EARoot/EA3/EA8/EA1/EA2/EA1322.htm", "4.png", "", "", "{319D752B-6F2A-4fc2-993C-CD33C14C487E}", "Package");
-tocTab[tocTab.length] = new Array("0.3.8.1.3", "1", "«D2Package» TypeOfRegulations", "EARoot/EA3/EA8/EA1/EA3/EA1337.htm", "4.png", "", "", "{299A7177-F431-4102-B8BA-B48544E96D8C}", "Package");
-tocTab[tocTab.length] = new Array("0.3.8.1.4", "1", "«D2Package» Warning", "EARoot/EA3/EA8/EA1/EA4/EA1354.htm", "4.png", "", "", "{A34D18D3-CF5E-4092-AA93-8A646D216CDC}", "Package");

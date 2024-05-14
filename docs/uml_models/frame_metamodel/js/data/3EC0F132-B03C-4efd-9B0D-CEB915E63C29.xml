@@ -1,3 +1,0 @@
-tocTab[tocTab.length] = new Array("0.3.9.3:1", "", "ParkingTablePublication", "EARoot/EA3/EA9/EA3/EA1611.htm", "175.png", "3467", "0", "", "Logical diagram0","{02BD4AE6-5FC3-41a9-AD3E-EB86161CEE5A}");
-tocTab[tocTab.length] = new Array("0.3.9.3:2", "", "«D2VersionedIdentifiable» ParkingTable", "EARoot/EA3/EA9/EA3/EA1625.htm", "5.png", "E20256", "0", "", "Class0","{1DCC3272-39DB-463b-9E03-B6256CEB4798}");
-tocTab[tocTab.length] = new Array("0.3.9.3:3", "", "«D2Class» ParkingTablePublication", "EARoot/EA3/EA9/EA3/EA1626.htm", "5.png", "E20257", "0", "", "Class0","{2D8F2A49-AAB4-42c1-A618-C49F78648A48}");

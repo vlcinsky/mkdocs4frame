@@ -1,3 +1,0 @@
-tocTab[tocTab.length] = new Array("0.4.6.3.2:1", "", "Geometry", "EARoot/EA4/EA6/EA3/EA2/EA1965.htm", "175.png", "3514", "0", "", "Logical diagram0","{BB00E052-8105-44e7-BAE7-5F3B1C37B99F}");
-tocTab[tocTab.length] = new Array("0.4.6.3.2:2", "", "«D2VersionedIdentifiable» Geometry", "EARoot/EA4/EA6/EA3/EA2/EA1968.htm", "5.png", "E20483", "0", "", "Class0","{3C8F4208-8D7E-424e-88A4-1CC8FFDACAFB}");
-tocTab[tocTab.length] = new Array("0.4.6.3.2:3", "", "«D2Class» RegulatorySpeedLimit", "EARoot/EA4/EA6/EA3/EA2/EA1969.htm", "5.png", "E20484", "0", "", "Class0","{2328FACD-396C-4465-B176-94948055DE5B}");
