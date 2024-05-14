@@ -1,8 +1,0 @@
-tocTab[tocTab.length] = new Array("0.3.5.1.1.2:1", "", "NetworkManagement", "EARoot/EA3/EA5/EA1/EA1/EA2/EA989.htm", "175.png", "3399", "0", "", "Logical diagram0","{540DCB1E-91DC-4aa9-9189-99FDA335D83A}");
-tocTab[tocTab.length] = new Array("0.3.5.1.1.2:2", "", "«D2Class» GeneralInstructionOrMessageToRoadUsers", "EARoot/EA3/EA5/EA1/EA1/EA2/EA993.htm", "5.png", "E19817", "0", "", "Class0","{5DD50052-8D59-4db3-93DA-ECC76AA03C1C}");
-tocTab[tocTab.length] = new Array("0.3.5.1.1.2:3", "", "«D2Class» GeneralNetworkManagement", "EARoot/EA3/EA5/EA1/EA1/EA2/EA994.htm", "5.png", "E19818", "0", "", "Class0","{C56BD523-2056-42b6-978C-7AD28FE96D1E}");
-tocTab[tocTab.length] = new Array("0.3.5.1.1.2:4", "", "«D2Class» NetworkManagement", "EARoot/EA3/EA5/EA1/EA1/EA2/EA995.htm", "5.png", "E19819", "0", "", "Class0","{3A29F165-7446-41d0-8B69-EB2969C62870}");
-tocTab[tocTab.length] = new Array("0.3.5.1.1.2:5", "", "«D2Class» ReroutingManagement", "EARoot/EA3/EA5/EA1/EA1/EA2/EA996.htm", "5.png", "E19820", "0", "", "Class0","{2BABEAC5-FEC8-495e-8B98-D3AC0DCEAE2B}");
-tocTab[tocTab.length] = new Array("0.3.5.1.1.2:6", "", "«D2Class» RoadOrCarriagewayOrLaneManagement", "EARoot/EA3/EA5/EA1/EA1/EA2/EA997.htm", "5.png", "E19821", "0", "", "Class0","{3C03A360-F046-4209-B966-762C06BED29E}");
-tocTab[tocTab.length] = new Array("0.3.5.1.1.2:7", "", "«D2Class» SpeedManagement", "EARoot/EA3/EA5/EA1/EA1/EA2/EA998.htm", "5.png", "E19822", "0", "", "Class0","{4ABDDFAA-0B00-466c-A00D-EF0F85F96A3F}");
-tocTab[tocTab.length] = new Array("0.3.5.1.1.2:8", "", "«D2Class» WinterDrivingManagement", "EARoot/EA3/EA5/EA1/EA1/EA2/EA999.htm", "5.png", "E19823", "0", "", "Class0","{C0FD25A5-8D33-4021-BC71-33E80AE8A002}");

@@ -1,4 +1,0 @@
-tocTab[tocTab.length] = new Array("0.3.9.1.11:1", "", "HierarchyComponents", "EARoot/EA3/EA9/EA1/EA11/EA1517.htm", "175.png", "3456", "0", "", "Logical diagram0","{F21DD553-9B2A-4902-AA9D-3BB256B3B5E2}");
-tocTab[tocTab.length] = new Array("0.3.9.1.11:2", "", "PlaceHierarchy", "EARoot/EA3/EA9/EA1/EA11/EA1519.htm", "175.png", "3457", "0", "", "Logical diagram0","{877D5B3F-CC47-413f-80B7-3CC3FB4652BB}");
-tocTab[tocTab.length] = new Array("0.3.9.1.11:3", "", "«D2Class» Campus", "EARoot/EA3/EA9/EA1/EA11/EA1522.htm", "5.png", "E20184", "0", "", "Class0","{4424A7B0-48D0-4d3e-8A85-03A672AFDF55}");
-tocTab[tocTab.length] = new Array("0.3.9.1.11:4", "", "«D2Class» HierarchyElementGeneral", "EARoot/EA3/EA9/EA1/EA11/EA1523.htm", "5.png", "E20185", "0", "", "Class0","{A3D5D397-D065-4e06-9B68-53B66DB1928C}");

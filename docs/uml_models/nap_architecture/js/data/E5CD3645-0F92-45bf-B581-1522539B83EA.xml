@@ -1,6 +1,0 @@
-tocTab[tocTab.length] = new Array("0.3.3.4:1", "", "«D2Enumeration» DeviceComponentEnum", "EARoot/EA3/EA3/EA4/EA786.htm", "247.png", "E19698", "0", "", "Enumeration0","{C01B2171-9680-49c3-84B3-E1D4EA7FD2A7}");
-tocTab[tocTab.length] = new Array("0.3.3.4:2", "", "«D2Enumeration» DeviceHealthEnum", "EARoot/EA3/EA3/EA4/EA787.htm", "247.png", "E19699", "0", "", "Enumeration0","{07CAE3F4-356B-4a8c-BA12-67129C2DA066}");
-tocTab[tocTab.length] = new Array("0.3.3.4:3", "", "«D2Enumeration» DeviceTypeEnum", "EARoot/EA3/EA3/EA4/EA788.htm", "247.png", "E19700", "0", "", "Enumeration0","{A1AC467C-1302-4ce0-BCBE-D93D9B778FB8}");
-tocTab[tocTab.length] = new Array("0.3.3.4:4", "", "«D2Enumeration» FaultImpactOnDataEnum", "EARoot/EA3/EA3/EA4/EA789.htm", "247.png", "E19701", "0", "", "Enumeration0","{51CE2294-2F99-4b0c-92F6-950AA30C1082}");
-tocTab[tocTab.length] = new Array("0.3.3.4:5", "", "«D2Enumeration» FaultTypeEnum", "EARoot/EA3/EA3/EA4/EA790.htm", "247.png", "E19702", "0", "", "Enumeration0","{998F193C-1947-4cfb-A451-C3DB8727CA04}");
-tocTab[tocTab.length] = new Array("0.3.3.4:6", "", "«D2Enumeration» OperationalDeviceStateEnum", "EARoot/EA3/EA3/EA4/EA791.htm", "247.png", "E19703", "0", "", "Enumeration0","{78BAA280-C38B-4caa-AEC4-86AC6B7EC4D1}");

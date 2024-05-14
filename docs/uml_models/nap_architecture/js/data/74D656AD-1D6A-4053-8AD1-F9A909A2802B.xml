@@ -1,5 +1,0 @@
-tocTab[tocTab.length] = new Array("0.2.1:1", "", "DataTypes", "EARoot/EA2/EA1/EA219.htm", "175.png", "3306", "0", "", "Logical diagram0","{8F6C951C-924D-4fd8-9AE3-69F997C3197A}");
-tocTab[tocTab.length] = new Array("0.2.1:2", "", "«D2Datatype» AlertCLocationCode", "EARoot/EA2/EA1/EA222.htm", "230.png", "E19317", "0", "", "DataType0","{22779E6E-6805-4e1f-8F2D-629E770D8C18}");
-tocTab[tocTab.length] = new Array("0.2.1:3", "", "«D2Datatype» GmlPosList", "EARoot/EA2/EA1/EA223.htm", "230.png", "E19318", "0", "", "DataType0","{54C506D2-F537-4288-BA08-C5BCABF49ED6}");
-tocTab[tocTab.length] = new Array("0.2.1:4", "", "«D2Datatype» NutsCode", "EARoot/EA2/EA1/EA224.htm", "230.png", "E19319", "0", "", "DataType0","{CC02DBA3-C472-4da8-A229-C3D814726B8E}");
-tocTab[tocTab.length] = new Array("0.2.1:5", "", "«D2Datatype» SubdivisionCode", "EARoot/EA2/EA1/EA225.htm", "230.png", "E19320", "0", "", "DataType0","{B1668226-7D16-403e-9978-8359AFB7F478}");

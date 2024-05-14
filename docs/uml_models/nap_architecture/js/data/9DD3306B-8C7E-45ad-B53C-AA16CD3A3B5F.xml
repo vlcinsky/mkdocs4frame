@@ -1,3 +1,0 @@
-tocTab[tocTab.length] = new Array("0.3.6.1.5:1", "", "VmsStatus", "EARoot/EA3/EA6/EA1/EA5/EA1178.htm", "175.png", "3417", "0", "", "Logical diagram0","{4643EAB8-61DB-44ba-A924-5061D6CE324C}");
-tocTab[tocTab.length] = new Array("0.3.6.1.5:2", "", "«D2Class» VmsStatus", "EARoot/EA3/EA6/EA1/EA5/EA1183.htm", "5.png", "E19957", "0", "", "Class0","{5EC43BC6-80FE-4cde-9477-0446AB434987}");
-tocTab[tocTab.length] = new Array("0.3.6.1.5:3", "", "«D2Class» VmsControllerStatus", "EARoot/EA3/EA6/EA1/EA5/EA1184.htm", "5.png", "E19958", "0", "", "Class0","{40E0576D-EA2C-4f18-B7F6-3AA6A4823B17}");

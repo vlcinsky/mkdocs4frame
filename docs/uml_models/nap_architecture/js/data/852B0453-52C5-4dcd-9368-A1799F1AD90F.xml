@@ -1,6 +1,0 @@
-tocTab[tocTab.length] = new Array("0.3.9.1.5:1", "", "JunctionAndRoad", "EARoot/EA3/EA9/EA1/EA5/EA1463.htm", "182.png", "3450", "0", "", "CompositeStructure diagram0","{378F06E8-8B2B-4b81-9CCA-464EDC952BA4}");
-tocTab[tocTab.length] = new Array("0.3.9.1.5:2", "", "PointByJunction", "EARoot/EA3/EA9/EA1/EA5/EA1465.htm", "175.png", "3448", "0", "", "Logical diagram0","{48341F0D-AEF6-4d09-A928-5AB34D807529}");
-tocTab[tocTab.length] = new Array("0.3.9.1.5:3", "", "AccessRoad", "EARoot/EA3/EA9/EA1/EA5/EA1467.htm", "175.png", "3449", "0", "", "Logical diagram0","{A412EAAD-F8F9-43ad-B284-C25AE2973CF8}");
-tocTab[tocTab.length] = new Array("0.3.9.1.5:4", "", "«D2Class» JunctionInformation", "EARoot/EA3/EA9/EA1/EA5/EA1473.htm", "5.png", "E20147", "0", "", "Class0","{9AB63F4C-BC43-4d85-9C8C-8D17F98B12E4}");
-tocTab[tocTab.length] = new Array("0.3.9.1.5:5", "", "«D2Class» PointLocationForParking", "EARoot/EA3/EA9/EA1/EA5/EA1474.htm", "5.png", "E20148", "0", "", "Class0","{3CFFAEB4-BBF9-47b4-BA56-36852F461690}");
-tocTab[tocTab.length] = new Array("0.3.9.1.5:6", "", "«D2Class» RoadInformationEnhanced", "EARoot/EA3/EA9/EA1/EA5/EA1475.htm", "5.png", "E20149", "0", "", "Class0","{D72D260A-17BB-4ba4-AB44-CEC7C3BC2569}");

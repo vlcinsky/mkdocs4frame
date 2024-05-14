@@ -1,4 +1,0 @@
-tocTab[tocTab.length] = new Array("0.4.6.1:1", "", "DataTypes", "EARoot/EA4/EA6/EA1/EA1875.htm", "175.png", "3508", "0", "", "Logical diagram0","{FC808256-BC85-40b5-8FBB-12BEA326FE3D}");
-tocTab[tocTab.length] = new Array("0.4.6.1.1", "1", "«D2Package» BitStrings", "EARoot/EA4/EA6/EA1/EA1/EA1883.htm", "4.png", "", "", "{96627AE9-9341-4416-8649-29DD29F000B0}", "Package");
-tocTab[tocTab.length] = new Array("0.4.6.1.2", "1", "«D2Package» Generic", "EARoot/EA4/EA6/EA1/EA2/EA1896.htm", "4.png", "", "", "{E32E9A1C-45FE-473d-87B4-127EA450799C}", "Package");
-tocTab[tocTab.length] = new Array("0.4.6.1.3", "1", "«D2Package» Specific", "EARoot/EA4/EA6/EA1/EA3/EA1900.htm", "4.png", "", "", "{ED74CD08-CBD2-44a4-B6CA-65527FB3F325}", "Package");

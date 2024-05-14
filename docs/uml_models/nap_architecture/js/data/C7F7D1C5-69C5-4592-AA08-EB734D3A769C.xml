@@ -1,9 +1,0 @@
-tocTab[tocTab.length] = new Array("0.3.6.1:1", "", "«D2VersionedIdentifiable» VmsControllerTable", "EARoot/EA3/EA6/EA1/EA1128.htm", "5.png", "E19915", "0", "", "Class0","{E9C1D516-B022-4e01-93B9-49C933E82AA1}");
-tocTab[tocTab.length] = new Array("0.3.6.1:2", "", "«D2VersionedIdentifiable» VmsController", "EARoot/EA3/EA6/EA1/EA1129.htm", "5.png", "E19916", "0", "", "Class0","{0431A8EA-3EA8-4d95-BE31-5C492BE1E89B}");
-tocTab[tocTab.length] = new Array("0.3.6.1:3", "", "«D2Class» Vms", "EARoot/EA3/EA6/EA1/EA1130.htm", "5.png", "E19917", "0", "", "Class0","{D415FCCA-2BF4-4e34-912E-43CF6360602F}");
-tocTab[tocTab.length] = new Array("0.3.6.1:4", "", "«D2Class» ManagedLogicalLocation", "EARoot/EA3/EA6/EA1/EA1131.htm", "5.png", "E19918", "0", "", "Class0","{C73414BB-4BE7-4d0a-8A64-3CD9DC5B71C6}");
-tocTab[tocTab.length] = new Array("0.3.6.1.1", "1", "«D2Package» GraphicDataDictionary", "EARoot/EA3/EA6/EA1/EA1/EA1135.htm", "4.png", "", "", "{7B324CDB-6B3A-48c2-80BD-3FAF1E7A7532}", "Package");
-tocTab[tocTab.length] = new Array("0.3.6.1.2", "1", "«D2Package» VmsConfiguration", "EARoot/EA3/EA6/EA1/EA2/EA1141.htm", "4.png", "", "", "{F3D7528D-1307-4e62-BC95-AF5D5DB0F342}", "Package");
-tocTab[tocTab.length] = new Array("0.3.6.1.3", "1", "«D2Package» VmsFault", "EARoot/EA3/EA6/EA1/EA3/EA1152.htm", "4.png", "", "", "{5482EE5F-221D-460b-947D-3BF917695A1C}", "Package");
-tocTab[tocTab.length] = new Array("0.3.6.1.4", "1", "«D2Package» VmsMessage", "EARoot/EA3/EA6/EA1/EA4/EA1159.htm", "4.png", "", "", "{C2CDA758-5466-48ff-8DA0-2E5E1F7EFE09}", "Package");
-tocTab[tocTab.length] = new Array("0.3.6.1.5", "1", "«D2Package» VmsStatus", "EARoot/EA3/EA6/EA1/EA5/EA1180.htm", "4.png", "", "", "{9DD3306B-8C7E-45ad-B53C-AA16CD3A3B5F}", "Package");

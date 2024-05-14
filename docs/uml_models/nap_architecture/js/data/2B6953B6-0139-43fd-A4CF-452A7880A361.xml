@@ -1,9 +1,0 @@
-tocTab[tocTab.length] = new Array("0.2.3.7.3:1", "", "OpenLRPoint", "EARoot/EA2/EA3/EA7/EA3/EA462.htm", "175.png", "3333", "0", "", "Logical diagram0","{18E02A3F-C4B1-4ee7-AC15-67F775050E40}");
-tocTab[tocTab.length] = new Array("0.2.3.7.3:2", "", "«D2Class» OpenlrBasePointLocation", "EARoot/EA2/EA3/EA7/EA3/EA465.htm", "5.png", "E19483", "0", "", "Class0","{4509F833-786E-43f5-A1F5-6552921311B4}");
-tocTab[tocTab.length] = new Array("0.2.3.7.3:3", "", "«D2Class» OpenlrGeoCoordinate", "EARoot/EA2/EA3/EA7/EA3/EA466.htm", "5.png", "E19484", "0", "", "Class0","{3A7607A1-396B-442a-B69F-EC6EE3FE1DB3}");
-tocTab[tocTab.length] = new Array("0.2.3.7.3:4", "", "«D2Class» OpenlrLastLocationReferencePoint", "EARoot/EA2/EA3/EA7/EA3/EA467.htm", "5.png", "E19485", "0", "", "Class0","{9E2A540F-7B44-4184-B384-57142B33C6B3}");
-tocTab[tocTab.length] = new Array("0.2.3.7.3:5", "", "«D2Class» OpenlrLocationReferencePoint", "EARoot/EA2/EA3/EA7/EA3/EA468.htm", "5.png", "E19486", "0", "", "Class0","{9A641638-46A7-402a-A4FA-6489D4453406}");
-tocTab[tocTab.length] = new Array("0.2.3.7.3:6", "", "«D2Class» OpenlrPointAlongLine", "EARoot/EA2/EA3/EA7/EA3/EA469.htm", "5.png", "E19487", "0", "", "Class0","{2204AD56-62FF-4b0c-9BA4-0FAD6C6B420A}");
-tocTab[tocTab.length] = new Array("0.2.3.7.3:7", "", "«D2Class» OpenlrPointAttributes", "EARoot/EA2/EA3/EA7/EA3/EA470.htm", "5.png", "E19488", "0", "", "Class0","{C499A673-BC4D-4bd7-9494-3E2BF60AD27D}");
-tocTab[tocTab.length] = new Array("0.2.3.7.3:8", "", "«D2Class» OpenlrPointLocationReference", "EARoot/EA2/EA3/EA7/EA3/EA471.htm", "5.png", "E19489", "0", "", "Class0","{309597B5-B01D-4267-934A-D8B5EB945F61}");
-tocTab[tocTab.length] = new Array("0.2.3.7.3:9", "", "«D2Class» OpenlrPoiWithAccessPoint", "EARoot/EA2/EA3/EA7/EA3/EA472.htm", "5.png", "E19490", "0", "", "Class0","{52E2938C-4D90-4bec-8432-524AD263B803}");

@@ -1,9 +1,0 @@
-tocTab[tocTab.length] = new Array("0.3.2.1:1", "", "Facility", "EARoot/EA3/EA2/EA1/EA598.htm", "175.png", "3348", "0", "", "Logical diagram0","{89FAB560-EF12-4a0f-A00B-ADC2F934E645}");
-tocTab[tocTab.length] = new Array("0.3.2.1:2", "", "FacilityStatus", "EARoot/EA3/EA2/EA1/EA600.htm", "175.png", "3349", "0", "", "Logical diagram0","{4A336C16-2452-415c-99F1-78E706055037}");
-tocTab[tocTab.length] = new Array("0.3.2.1:3", "", "«D2Class» AssociatedFacility", "EARoot/EA3/EA2/EA1/EA608.htm", "5.png", "E19566", "0", "", "Class0","{577F213F-B340-4400-AD46-E89E362CCABC}");
-tocTab[tocTab.length] = new Array("0.3.2.1:4", "", "«D2Class» Facility", "EARoot/EA3/EA2/EA1/EA609.htm", "5.png", "E19567", "0", "", "Class0","{59B3064E-BDAE-4d22-9DD8-D1613B551CF6}");
-tocTab[tocTab.length] = new Array("0.3.2.1:5", "", "«D2VersionedIdentifiable» FacilityObject", "EARoot/EA3/EA2/EA1/EA610.htm", "5.png", "E19568", "0", "", "Class0","{465EDCD0-B8ED-44aa-9B20-7826AE3BB198}");
-tocTab[tocTab.length] = new Array("0.3.2.1:6", "", "«D2Class» FacilityObjectStatus", "EARoot/EA3/EA2/EA1/EA611.htm", "5.png", "E19569", "0", "", "Class0","{5DCF5E77-642E-4fd5-9CFB-4954B787AA03}");
-tocTab[tocTab.length] = new Array("0.3.2.1:7", "", "«D2Class» FacilityStatus", "EARoot/EA3/EA2/EA1/EA612.htm", "5.png", "E19570", "0", "", "Class0","{5B259407-CF1E-497b-962A-002590CAB550}");
-tocTab[tocTab.length] = new Array("0.3.2.1:8", "", "«D2Enumeration» FacilityTypeEnum", "EARoot/EA3/EA2/EA1/EA613.htm", "247.png", "E19572", "0", "", "Enumeration0","{AF570AA4-69F6-4538-89A9-5D628E2A32A5}");
-tocTab[tocTab.length] = new Array("0.3.2.1:9", "", "«D2Class» Image", "EARoot/EA3/EA2/EA1/EA614.htm", "5.png", "E19571", "0", "", "Class0","{3F984A1F-D4AF-4716-B09D-ECF4475164D0}");

@@ -1,4 +1,0 @@
-tocTab[tocTab.length] = new Array("0.3.6.1.1:1", "", "Graphic Data Dictionary", "EARoot/EA3/EA6/EA1/EA1/EA1133.htm", "175.png", "3412", "0", "", "Logical diagram0","{E3BEC824-B1DB-4208-B488-7EF43965DAEB}");
-tocTab[tocTab.length] = new Array("0.3.6.1.1:2", "", "«D2Class» GddPictogramAttributes", "EARoot/EA3/EA6/EA1/EA1/EA1136.htm", "5.png", "E19920", "0", "", "Class0","{023516E5-332F-4fbd-8ECF-9439DE56F4B6}");
-tocTab[tocTab.length] = new Array("0.3.6.1.1:3", "", "«D2Class» GddPictogramIdentification", "EARoot/EA3/EA6/EA1/EA1/EA1137.htm", "5.png", "E19921", "0", "", "Class0","{B5150DF8-2318-492a-9B40-E42C00725DF5}");
-tocTab[tocTab.length] = new Array("0.3.6.1.1:4", "", "«D2Class» GddStructure", "EARoot/EA3/EA6/EA1/EA1/EA1138.htm", "5.png", "E19922", "0", "", "Class0","{0713B6A5-3BB2-4c29-BA17-FE8FEDF5F2D1}");
