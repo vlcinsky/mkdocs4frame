@@ -1,4 +1,0 @@
-tocTab[tocTab.length] = new Array("0.3.4.2:1", "", "DataTypes", "EARoot/EA3/EA4/EA2/EA923.htm", "175.png", "3390", "0", "", "Logical diagram0","{595F7F05-C817-41d6-A213-7EEDEF147294}");
-tocTab[tocTab.length] = new Array("0.3.4.2:2", "", "«D2Datatype» DensityVehiclesPerKilometre", "EARoot/EA3/EA4/EA2/EA926.htm", "230.png", "E19777", "0", "", "DataType0","{7B423F0E-D12E-4122-8159-7B8BFD5C7E18}");
-tocTab[tocTab.length] = new Array("0.3.4.2:3", "", "«D2Datatype» PassengerCarUnitsPerHour", "EARoot/EA3/EA4/EA2/EA927.htm", "230.png", "E19778", "0", "", "DataType0","{7974C6D1-2723-4f4d-BD8F-9A1529C1F1E4}");
-tocTab[tocTab.length] = new Array("0.3.4.2:4", "", "«D2Datatype» VehiclesPerDay", "EARoot/EA3/EA4/EA2/EA928.htm", "230.png", "E19779", "0", "", "DataType0","{02041CCE-AC37-4890-A3B4-E8176D30AE97}");

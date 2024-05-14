@@ -1,5 +1,0 @@
-tocTab[tocTab.length] = new Array("0.3.5.1.3:1", "", "ServiceInformation", "EARoot/EA3/EA5/EA1/EA3/EA1005.htm", "175.png", "3401", "0", "", "Logical diagram0","{CA2D31F1-52EA-4225-8C08-80A86D438DD5}");
-tocTab[tocTab.length] = new Array("0.3.5.1.3:2", "", "«D2Class» RoadOperatorServiceDisruption", "EARoot/EA3/EA5/EA1/EA3/EA1008.htm", "5.png", "E19828", "0", "", "Class0","{10EAC039-0C9D-452b-BC20-618D260F6638}");
-tocTab[tocTab.length] = new Array("0.3.5.1.3:3", "", "«D2Class» ServiceDisruption", "EARoot/EA3/EA5/EA1/EA3/EA1009.htm", "5.png", "E19829", "0", "", "Class0","{60019D11-93E8-4cda-BB25-8D1CECFA0846}");
-tocTab[tocTab.length] = new Array("0.3.5.1.3:4", "", "«D2Class» ServiceInformation", "EARoot/EA3/EA5/EA1/EA3/EA1010.htm", "5.png", "E19830", "0", "", "Class0","{BB116C17-05FD-4fb1-BB1F-AF75AE49BDFC}");
-tocTab[tocTab.length] = new Array("0.3.5.1.3:5", "", "«D2Class» TransitInformation", "EARoot/EA3/EA5/EA1/EA3/EA1011.htm", "5.png", "E19831", "0", "", "Class0","{FBF6F3D5-3AB8-4215-A1E3-CB7318FE3CEE}");

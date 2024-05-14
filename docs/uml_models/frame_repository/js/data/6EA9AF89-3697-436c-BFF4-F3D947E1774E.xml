@@ -1,7 +1,0 @@
-tocTab[tocTab.length] = new Array("0.3.9.1.15:1", "", "ThresholdConfiguration", "EARoot/EA3/EA9/EA1/EA15/EA1544.htm", "175.png", "3463", "0", "", "Logical diagram0","{523D5B80-B675-4720-8E70-A1BE7B939A75}");
-tocTab[tocTab.length] = new Array("0.3.9.1.15:2", "", "«D2Class» AvailableSpacesThresholds", "EARoot/EA3/EA9/EA1/EA15/EA1548.htm", "5.png", "E20198", "0", "", "Class0","{4084183A-0686-47fa-91DB-0541F6D58017}");
-tocTab[tocTab.length] = new Array("0.3.9.1.15:3", "", "«D2Class» OccupiedSpacesThresholds", "EARoot/EA3/EA9/EA1/EA15/EA1549.htm", "5.png", "E20199", "0", "", "Class0","{FA1E5AAC-EEAC-4526-A16B-56CBB6753D60}");
-tocTab[tocTab.length] = new Array("0.3.9.1.15:4", "", "«D2Class» StatusConfiguration", "EARoot/EA3/EA9/EA1/EA15/EA1550.htm", "5.png", "E20200", "0", "", "Class0","{D07E3FD1-1E83-44cd-BFDE-CFF976C832A5}");
-tocTab[tocTab.length] = new Array("0.3.9.1.15:5", "", "«D2Class» ThresholdConfiguration", "EARoot/EA3/EA9/EA1/EA15/EA1551.htm", "5.png", "E20201", "0", "", "Class0","{B6817E9E-D97D-4041-9A9B-21989C2ABBD9}");
-tocTab[tocTab.length] = new Array("0.3.9.1.15:6", "", "«D2Class» Thresholds", "EARoot/EA3/EA9/EA1/EA15/EA1552.htm", "5.png", "E20202", "0", "", "Class0","{E1FBA99C-F1DA-4963-B151-3B4DAE827397}");
-tocTab[tocTab.length] = new Array("0.3.9.1.15:7", "", "«D2Class» VehiclesOnSiteThresholds", "EARoot/EA3/EA9/EA1/EA15/EA1553.htm", "5.png", "E20203", "0", "", "Class0","{BDF6EBC6-AE3C-4ad4-A463-1EA1200D2C64}");

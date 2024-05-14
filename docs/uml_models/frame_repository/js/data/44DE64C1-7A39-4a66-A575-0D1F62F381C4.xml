@@ -1,3 +1,0 @@
-tocTab[tocTab.length] = new Array("0.1.2:1", "", "DataTypes", "EARoot/EA1/EA2/EA126.htm", "175.png", "3300", "0", "", "Logical diagram0","{D157A54A-1614-4385-8B54-85A7BAE370BC}");
-tocTab[tocTab.length] = new Array("0.1.2.1", "1", "«D2Package» Generic", "EARoot/EA1/EA2/EA1/EA133.htm", "4.png", "", "", "{68CDCC70-0574-49cc-B81F-F4660DBDDEA8}", "Package");
-tocTab[tocTab.length] = new Array("0.1.2.2", "1", "«D2Package» Specific", "EARoot/EA1/EA2/EA2/EA153.htm", "4.png", "", "", "{C4FA9AFE-1922-4780-9B52-D08FB01A2078}", "Package");

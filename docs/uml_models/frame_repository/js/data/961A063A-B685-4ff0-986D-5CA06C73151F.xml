@@ -1,5 +1,0 @@
-tocTab[tocTab.length] = new Array("0:1", "", "D2Payload", "EARoot/EA1.htm", "175.png", "3283", "0", "", "Logical diagram0","{2569409A-6B64-4ff5-B307-320260C4CF99}");
-tocTab[tocTab.length] = new Array("0.1", "1", "«D2Namespace» Common", "EARoot/EA1/EA10.htm", "4.png", "", "", "{5246CCCD-8EE4-47e7-8638-ED54E03533EC}", "Package");
-tocTab[tocTab.length] = new Array("0.2", "1", "«D2Namespace» LocationReferencing", "EARoot/EA2/EA214.htm", "4.png", "", "", "{4224CB6E-B2E9-4d36-A935-464CF340733F}", "Package");
-tocTab[tocTab.length] = new Array("0.3", "1", "«D2Package» PayloadPublication", "EARoot/EA3/EA494.htm", "4.png", "", "", "{3A57F0AB-7D0D-4dfe-AC57-FF99142BF766}", "Package");
-tocTab[tocTab.length] = new Array("0.4", "1", "«D2Namespace» Extension", "EARoot/EA4/EA1640.htm", "4.png", "", "", "{E1407A8C-C9B7-4e32-A8FF-CF4B769A80CC}", "Package");

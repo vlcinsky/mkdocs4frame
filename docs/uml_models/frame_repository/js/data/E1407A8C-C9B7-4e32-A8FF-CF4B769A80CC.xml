@@ -1,8 +1,0 @@
-tocTab[tocTab.length] = new Array("0.4:1", "", "Extension", "EARoot/EA4/EA1638.htm", "175.png", "3472", "0", "", "Logical diagram0","{8E8E6C84-D778-4412-95D0-49664E820DEA}");
-tocTab[tocTab.length] = new Array("0.4.1", "1", "«D2Namespace» CommonExtension", "EARoot/EA4/EA1/EA1652.htm", "4.png", "", "", "{F40DBDAB-6F78-4173-ABD1-B0E637014C05}", "Package");
-tocTab[tocTab.length] = new Array("0.4.2", "1", "«D2Namespace» GnssExtension", "EARoot/EA4/EA2/EA1705.htm", "4.png", "", "", "{2A4A2132-8C75-469b-8347-EF1CEF43FABC}", "Package");
-tocTab[tocTab.length] = new Array("0.4.3", "1", "«D2Namespace» LocationExtension", "EARoot/EA4/EA3/EA1731.htm", "4.png", "", "", "{F9CA635C-C074-438f-A6E7-D159D5A69EFD}", "Package");
-tocTab[tocTab.length] = new Array("0.4.4", "1", "«D2Namespace» ReroutingManagementEnhanced", "EARoot/EA4/EA4/EA1763.htm", "4.png", "", "", "{1BB19A10-3956-498d-8DAA-5A43A5808DDF}", "Package");
-tocTab[tocTab.length] = new Array("0.4.5", "1", "«D2Namespace» TrafficManagementPlan", "EARoot/EA4/EA5/EA1783.htm", "4.png", "", "", "{C4D801EB-39F1-4288-8E3D-ADDA040CC173}", "Package");
-tocTab[tocTab.length] = new Array("0.4.6", "1", "«D2Namespace» TrafficSignals", "EARoot/EA4/EA6/EA1870.htm", "4.png", "", "", "{EF461D9E-0039-4f0a-93AA-595C48277756}", "Package");
-tocTab[tocTab.length] = new Array("0.4.7", "1", "«D2Namespace» UrbanExtensions", "EARoot/EA4/EA7/EA2039.htm", "4.png", "", "", "{C0F61B42-B9B1-4795-90CD-E748A4EA7B84}", "Package");

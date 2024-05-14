@@ -1,5 +1,0 @@
-tocTab[tocTab.length] = new Array("0.3.4.1.3:1", "", "PhysicalQuantity", "EARoot/EA3/EA4/EA1/EA3/EA858.htm", "175.png", "3379", "0", "", "Logical diagram0","{2A775A2C-6887-4831-BB1A-ABC3BD2F8F07}");
-tocTab[tocTab.length] = new Array("0.3.4.1.3:2", "", "«D2Class» PhysicalQuantity", "EARoot/EA3/EA4/EA1/EA3/EA862.htm", "5.png", "E19741", "0", "", "Class0","{33C7F59F-E755-466c-968D-1F590B3A6D1E}");
-tocTab[tocTab.length] = new Array("0.3.4.1.3:3", "", "«D2Class» PhysicalQuantityFault", "EARoot/EA3/EA4/EA1/EA3/EA863.htm", "5.png", "E19742", "0", "", "Class0","{0F466C1E-DF56-431d-92CB-23DA1EF0F1A2}");
-tocTab[tocTab.length] = new Array("0.3.4.1.3:4", "", "«D2Class» SinglePhysicalQuantity", "EARoot/EA3/EA4/EA1/EA3/EA864.htm", "5.png", "E19743", "0", "", "Class0","{AB686DAF-7BE6-42fd-A5F3-85ECFA82C263}");
-tocTab[tocTab.length] = new Array("0.3.4.1.3:5", "", "«D2Class» TimeProfiledPhysicalQuantity", "EARoot/EA3/EA4/EA1/EA3/EA865.htm", "5.png", "E19744", "0", "", "Class0","{9AB1F7A2-CDC6-4d2c-93C6-E3226BC9386C}");
